@@ -1,0 +1,429 @@
+S
+CHAPTER FOUR
+STEP 4
+Accelerate Cycle Time
+OME  ENTERPRISES  SEE  efficiency and speed as the key to cutting costs.
+They can produce the same amount with less work. In some
+workplaces, a speedy process means that losses turn to profits or that
+employees can get home in time for dinner. Nothing wrong with that.
+But for companies looking for exponential growth, the magic of speed is
+that it accelerates cycle time, and faster cycle times mean higher throughput
+with the same fixed resources. Going fast is a simple hack for growth.
+Speeding up a process also exposes quality and process issues. Addressing
+them often enables an organization to move even faster.
+Accelerating cycle time is the fourth step of the Algorithm. I look at the
+first three steps as enablers. By questioning requirements, eliminating steps,
+and simplifying, an enterprise puts the pieces into place. Only when the
+quality is excellent and the process is optimized is it time to hit the
+accelerator and achieve faster cycle time. That’s when revenue and growth
+take flight.
+I was exposed to the concept of cycle time early in my career. It was in a
+factory environment. In car repair, the cycle time clock starts when you
+drop off the keys. It ends when you get back the keys to your car. At
+Amazon, the clock begins when you place your order and ends when it is
+delivered. It’s a simple notion, but a hard thing to optimize. But if you
+succeed, cycle time becomes a powerful competitive advantage.
+This came to roost for me in a very simple but inconvenient way. Early
+in our marriage, a neighbor accidentally backed into my wife’s car. Her
+back door and quarter panel were smashed.
+I took her car to a local body shop. The owner gave me an estimate and
+said the car would be done by the end of the week. I called on Friday to
+pick it up. No luck. The owner said that the wrong parts showed up. I’d
+have to wait a week.
+I called the following Thursday. No dice. The technician had gotten busy
+on other repairs and hadn’t gotten to our car. Call back next Friday.
+This continued for two more weeks—the delivery date slipping from
+Friday to Friday. A total cycle time of more than four weeks to repair her
+car.
+Curious about this industry, I did some research on what the cycle time
+was, using a proxy: average insurance rental-car days. It turned out the
+average insurance repair rental was eighteen days. So our situation wasn’t
+all that unusual.
+When I got the final bill, I dug into it and was shocked at what I saw.
+Total repair hours billed? Eight. Yes, eight hours.
+Our car sat in the shop for more than four weeks, yet it had been touched
+for only eight hours. My research into the industry showed that average
+labor markups were 50 percent, so that meant the car might have actually
+been touched for no more than five to six hours. Over a full month.
+This reveals a hack I’ve learned. When looking at cycle time, look also
+at “touch time”—the amount of time the product or service is actually being
+worked on.
+The difference between cycle time and touch time represents your
+opportunity to improve.
+I couldn’t let go of how terrible the experience was, so I kept digging to
+learn more. Further questions revealed that auto-body repair was a $30
+billion industry in the United States. But it had managed to sidestep the lean
+manufacturing revolution that had spread from Japan to the rest of the
+world in the last decades of the twentieth century. Its organization, by
+contrast, dated back to cottage industries, to blacksmiths and woodworkers.
+It was ripe for disruption. I believed we could reduce cycle time from
+eighteen days to four hours. If we managed that, we could accomplish
+same-day collision repair. It would upend the industry and immensely
+improve customer experience.
+Nine months later, I launched a company from our kitchen table to
+revolutionize collision repair. That company has grown to hundreds of
+locations and has taken cycle times down from eighteen days to eighteen
+hours (it turns out that ordering and receiving parts takes about twelve
+hours). But that is a huge disruption. And all of it from optimizing one
+metric: cycle time.
+CYCLE TIME AT TESLA
+At Tesla, we knew we had to play catch-up in cycle time. Toyota, the leader
+in lean manufacturing, had been relentlessly refining its manufacturing and
+logistics for a half century or so. Toyota can turn aluminum dust into a
+Camry or Prius in five days and then sell it more quickly than most. It took
+Tesla almost three times as long. For each car produced, we were waiting
+much longer to get paid and turn our investment into cash. That’s a massive
+difference—potentially the difference between a highly successful auto
+manufacturer and another who isn’t long for this world. To compete in
+global markets, we had to get to Toyota levels, at the very least.
+One of the biggest problems (and, thus, opportunities) was connecting
+what was selling to the supply chain and factory teams. This is called sales
+and operational planning (S&OP). When Tesla had been selling to niche
+markets, from Silicon Valley to New York City, the numbers were relatively
+small. Manufacturing and sales could trade Excel spreadsheets with
+production on one side, shipment predictions on the other. This was done
+every Monday afternoon at 5 p.m. in a meeting at the Fremont factory. It
+was so essential to the financial performance of the company that it was run
+by the head of manufacturing, the CFO, and the president (me).
+I remember discussing this with Neal Suidan. He’d come to the
+company on the data side, after running analytics for Hillary Clinton’s
+presidential campaign in 2016. He had thrived in the chaos of a political
+race and also experienced the bitter sting of failure. This prepared him well
+for Tesla.
+Neal understood, perhaps better than anyone, the glaring shortcomings
+of our S&OP. His initial job was to forecast deliveries—which cars went
+where, and when. To make his calculations, he had to prospect for
+information upstream, from one silo to the next. This took him all the way
+through manufacturing and into the far reaches of the global supply chain.
+When production had been small, this approach was still feasible. But as we
+grew, the complexity jumped exponentially. We were offering thousands of
+different vehicle configurations, and they were going to scores of countries,
+many of them with different standards and requirements. Matching
+production with sales was turning into a circus, though not a fun one. We’d
+have the people from different operations in the same room, all of them
+with their own numbers and priorities, and they’d often start yelling at one
+another.
+“It was a mountain of work to get it right,” Neal recalls. And it didn’t
+always work. There were always new constraints popping up. How many of
+a certain seat could the manufacturer produce in a week? Would that be
+enough for the full shipment of cars to Los Angeles? If not, the only option
+was to scrounge and improvise. “In the end,” Neal says, “you just send
+cars.” Way too often, the wrong cars went to the wrong place.
+The information chaos led to terribly inefficient factory scheduling. We
+lacked visibility from end to end. We largely guessed about availability of
+parts and factory capacity, about shipping times and customer orders for
+one model or another. We were flying blind.
+Consequently, we couldn’t plan with enough precision to manufacture
+cars in large batches. We were producing ones or twos and not getting the
+benefit of scale. Then we’d have to take valuable time to change over the
+factory for another model. Similarly, we would send small numbers of parts
+through the supply chain. This slowed us up and cost money. There had to
+be a better way.
+It was a bit of a paradox. We ran arguably the world’s most sophisticated
+digital network for auto customers. Their Teslas were information
+appliances that sent and received software updates and timely information,
+whether about charging availability, motor efficiency, or air quality. Yet the
+company that produced these networked wonders was still running crucial
+operations on technology that many of us would recognize from high
+school.
+We knew, of course, that we had to simplify, both radically and quickly,
+if we were going to improve our cycle time. We had to get various teams on
+the same page.
+We put Neal on the job, along with two talented colleagues, Jeff
+Goodrich and Swati Padmanabhan. Their mission was to bring all of the
+disparate information together. Their software was to give everyone real-
+time visibility on every process and every constraint. It would extend from
+the supply chain and manufacturing all the way to the ever-shifting
+forecasts for demand in hundreds of local markets.
+This was in 2018, right at the time that much of the senior leadership of
+the company, including me, was leaving. From the perspective of Neal, Jeff,
+and Swati, they were practically running the place. In a sense, they were.
+The vacuum in top leadership posts opened opportunities. Neal found
+himself running the entire S&OP, which was previously run by the
+president, the CFO, and the head of manufacturing. What he and his team
+most badly needed was precisely what they were building. It would not only
+save the company. It was to become its nerve center.
+They designed the so-called Vehicle Plan so that everyone would see all
+of the up-to-the-minute information. People would have access to it whether
+they worked in supply chain, production, logistics, finance, or customer-
+delivery forecasts. Everyone would work from the same updates and
+numbers.
+Even before they finished the plan, they fed much of the data onto a
+laptop. It was a lot for a single machine, and it frequently crashed. But it
+became a lifeline for us. After the introduction of Model 3, in 2017, it
+enabled us to scale production by a factor of twenty-five—from twenty
+thousand units per quarter to a half million. Such scale and complexity
+would have crushed the old way of doing things, with its spreadsheets and
+screaming matches. There were now some ten thousand parts going into
+these machines, and they were coming from seventy-two countries. Without
+our central system, we never could have begun to multiply production at
+this scale.
+We were now able to share vital data such as manufacturing schedules:
+Everyone knew, minute by minute, every important detail about inventory,
+supply chain, and orders. This helped streamline production and cut cycle
+time. Car-production cycle time fell from fourteen days to less than six.
+Not only did cycle times improve, but because we had weekly visibility
+into our performance versus plan, we also had the ability to respond to
+shortfalls and make up for them with new plans. For the first time, Tesla
+was making its quarterly projections to Wall Street, and the stock
+responded.
+But the digital platform wasn’t the whole story. Neal combined this with
+the existing weekly session of the leaders of sales, manufacturing, supply
+chain, and delivery. With up-to-date information, we were more agile. We
+could coordinate quickly, turning potential crises into blips.
+This helped turn chaos into organized execution. Benefiting from this
+increased visibility, we could move from reactive to proactive. Where
+supply-chain disruptions used to rattle us, we now spotted them early and
+had time to respond. Sometimes it was supply shock: a strike in France or a
+shipment of semiconductors still in Taiwan. It could be a demand shock,
+like an unforeseen tariff in one market or another. Or it could be an
+unexpected event, like an especially provocative tweet from Elon about a
+new vehicle feature.
+The laptop application was a resounding proof of concept. After I left,
+Neal put together a much more robust and expansive Vehicle Plan,
+launching it in Shanghai in 2019. It made sense to start in China, where
+there was a new factory without the complications and constraints of our
+Fremont plant. Also, the Shanghai plant was producing only one type of car,
+the Model 3. That reduced complexity.
+The software debuted just weeks before a deadly new virus emerged in
+the city of Wuhan. The timing of the debut could not have been better. The
+COVID-19 crisis jumbled absolutely everything—the supply chains, the
+shipping routes, the customer behavior. These madly fluctuating variables
+would have been impossible to manage in the days when we were flying
+blind on spreadsheets.
+Within months, the Vehicle Plan spread through the organization. It
+adapted to each changing variable. If a shipment of batteries was delayed
+for fourteen hours, it would calculate the impact throughout the entire
+process. The information oscillated, like a market.
+GM’S ELECTRIC HUMMER
+Most of the stories in this book involve young companies, whether Tesla in
+the 2010s or start-ups launched since then. These companies don’t have
+age-old customs or routines. This no doubt makes it easier for them to
+follow the steps of the Algorithm, whether questioning requirements or
+simplifying and optimizing operations.
+It doesn’t mean, however, that older, more established companies cannot
+adapt to the Algorithm or that it isn’t vitally relevant to them. To survive in
+the twenty-first century, older companies need growth and efficiency just as
+much as anyone. The steps of the Algorithm can lead to dramatic
+improvement in speed and quality, even in the most venerable enterprises.
+Consider General Motors. The century-old behemoth has a reputation,
+gained over the decades, for running a rigid hierarchy and resisting change.
+In the 1980s the entrepreneur Ross Perot bought a piece of the company,
+joined the board, and vowed to modernize it. He later lamented that
+modernizing GM was “like teaching an elephant to tap dance.”
+In 2022 I joined the board of GM. But years before I arrived, CEO Mary
+Barra was already teaching that elephant to dance. She was simplifying,
+questioning requirements, and setting stretch goals. In style, the contrast
+between Mary and Elon could hardly be starker. Yet in many ways, their
+approaches are similar.
+Her crash project to build an electric truck is a shining example. The
+genesis was in March of 2018. That was when Mary and her team gathered
+to launch a new EV. The company had been producing an economy EV, the
+Chevy Volt, soon to be discontinued. But in 2018, they wanted a new
+vehicle that would change both the narrative and expectations surrounding
+the auto giant.
+They decided to electrify the vehicle most widely associated with gas-
+guzzling: the Hummer. This wasn’t a move to appeal to the traditional
+“green” market—the people who drove hybrids, composted their
+vegetables, and installed solar panels. No, this would target customers who
+focused on power and performance, people who in 2018 did not likely
+consider themselves in the market for an EV. But maybe they would, Mary
+thought, once they felt the neck-snapping acceleration of an electric
+Hummer.
+The concept was bold. And the execution would resemble Tesla’s in
+many ways. The parallels to the Algorithm are hard to miss.
+It started off with a bold vision and a crazy-fast target. By the auto
+industry’s traditional rhythm, it takes four years to design, develop, and
+produce a brand-new model. The electric Hummer, she said, was to be in
+production in half that time.
+She picked a young, brash and talented engineer, Josh Tavel, to lead the
+project. He had full autonomy to pick his own team. They’d develop their
+own process, free from the established rules and procedures within the
+company. “We can’t sit back and watch cool stuff be done,” he said. “We’ve
+gotta be the ones making everybody else uncomfortable.”
+Tavel started small, with just a handful of colleagues. They were
+virtually free of GM’s hierarchy and had streamlined approvals. Still, as
+they began work, they confronted a slew of traditions and best practices.
+Some of those best practices, Tavel later said, “needed to be there, because
+that’s how we make safe vehicles. But you also have to break those norms,
+and stop doing things the same way. Just asking the question ‘why?’ is a big
+deal.”
+They raced along, reducing steps. The key for both speed and quality
+was to simplify. Like the chef Grant Achatz at Alinea, Tavel and his team
+understood that only with a pared-down process at its core could they stay
+on schedule while also adding a slew of new features.
+Working through the pandemic, the small team was free to innovate,
+with minimal institutional pushback. They fixed cameras on the truck’s
+underbelly to give drivers a close look at the terrain. They added a power-
+sharing feature that enabled Hummer drivers to deliver charges to other
+EVs. Their Extract Mode let drivers raise the truck an additional six inches
+for rocky terrain. And “CrabWalk” enabled drivers to steer by moving both
+front and rear tires so that the truck could escape sticky situations by
+moving diagonally.
+The first Hummer EV rolled off the line on December 3, 2020, barely
+nineteen months after the launch of the project. It was important, of course,
+to get the massive vehicle on the market. But even more vital were the
+takeaways for GM. Josh Tavel’s team had pioneered a new and much faster
+mode of vehicle development. It wasn’t called the Algorithm, of course. But
+it might as well have been.
+Why? Because Josh started by questioning every requirement. He
+questioned the requirements of the vehicle itself. Then he broadened the
+questions to the requirements of supply chain, of manufacturing, and of
+marketing.
+From there, he and the team deleted unnecessary steps. With that
+simplified process, they optimized and sped up cycle time to deliver a
+groundbreaking vehicle in record time.
+A key part of the success in doing this in established companies is how
+Mary set up the team. There was one decision-maker, Josh. And he reported
+directly to the president of GM, Mark Reuss. Mark continuously cleared
+blockers for Josh and the Hummer team, enabling their ability to break from
+tradition and norms.
+I have not seen a successful initiative to innovate at speed without a
+small team reporting to a top executive who will clear roadblocks. Mary’s
+organizational architecture, combined with an Algorithm-like approach, was
+key to success. And it can be replicated in your organization, too.
+The Hummer EV was what is known in the industry as a “halo car.”
+When a car company is plunging into a new era, it creates a car that has all
+the bells and whistles, and produces it in relatively small numbers. Its
+purpose is to signal what’s ahead, both to industry watchers and car buyers.
+For decades, Chevrolet’s halo car has been the Corvette, which showcases
+innovations like dual-clutch transmission and magnetic selective-ride
+control, a feature that reads the road and adjusts shock absorbers. The
+Hummer EV boasted huge battery range and all sorts of exotic features,
+such as CrabWalk.
+But more important than its halo to the outside world, the importance of
+the Hummer EV is the manufacturing transformation that it unlocked within
+GM. It was a dramatic injection of speed, specifically speed of product
+development. Before the Hummer EV, new models took two to four years to
+design and introduce to production. Since its debut, the norm is now twelve
+to fourteen months.
+This has enabled GM to introduce more new models than its
+competitors, rapidly refreshing its product lineup across the board. A car
+company’s ability to quickly introduce new models gives it a competitive
+advantage. GM gets to market faster, gains one to two years of additional
+cash flow from those models, and gains market share at the same time. It’s a
+flywheel of speed, one that is urgent in the hypercompetitive global auto
+market.
+LULULEMON: FAST TRACK FOR THE OLYMPICS
+At Lululemon, where I sit on the board, every item of clothing, from
+VersaTwill shorts to stretchy jogging pants, emerges from an exacting
+design and production process. Traditionally, it’s taken eighteen months
+from the concept to the finished garment. This is a long time, but consumers
+are paying for quality at Lululemon stores. And production-cycle time
+doesn’t make much difference to them.
+Consider the matter of color. The Canadian outfitter has a very specific
+shade of dark red, and getting it just right can be a lengthy process.
+Normally, white fabric is sent for dyeing to Asia, where it goes through
+numerous runs. Some come out a bit darker, bordering on maroon, whereas
+others blend more brown into the red, tilting more toward garnet. Samples
+are sent back to the designer, who selects the ideal shade. The chosen fabric
+is then shipped to the factory. Meanwhile, a member of the supply-chain
+team travels to Asia to oversee the dyeing and ensure color consistency.
+This process was not engineered for tight deadlines. But that would
+change. In late 2021 the company won a contract to outfit the Canadian
+team for the following year’s Winter Olympics and Paralympics in Beijing.
+It was a dream opportunity. The company would have the opportunity to
+produce a wide range of outfits for figure skaters, bobsledders, skiers, and
+curlers. It would be a chance not just to support the national teams but also
+to exhibit fabulous design before a global audience. The only catch:
+Athletes had to be wearing the outfits within four months.
+Lululemon had to accelerate cycle time—the fourth step of the
+Algorithm—in a very big way. This was a jolt. It wasn’t like Tesla, where a
+foundation of our culture was to optimize and speed up production. At
+Lululemon, it would require a dramatic shift.
+After all, the slower status quo seemed to be working fine. The company
+produced quality goods and enjoyed a growing market share. The
+company’s deliberate and fastidious processes seemed to be a winning
+formula. But for the Olympic contract, every step in the process had to be
+questioned—and then clipped, optimized, folded into others. The Olympic
+team at Lululemon had to reinvent the very way they made things.
+The initial step at Lululemon was to suspend virtually all rules and
+approvals. Managers could use their own judgment. That sped things up.
+But the biggest acceleration would come from remaking the process
+itself. Traditionally, Lululemon’s operations moved like a relay race. First
+came design, and then the baton would move to various stages of logistics
+and manufacturing. It was largely a linear process. To reduce cycle time by
+more than a factor of four, it was clear that as many of those steps as
+possible would have to run concurrently.
+In that sense, Lululemon would operate more like the kitchen at Alinea.
+There, one sous-chef might be grilling octopus while another prepares the
+Korean barbecue sauce and a third carves an intricate carrot design to adorn
+it. All of this must go on simultaneously (or patrons would wait forever and
+the food would go cold).
+To coordinate, the Lululemon Olympic team brought together managers
+from every step in the process and sat them in the same room. This was a
+first. These people had long operated in their own domains, with little input
+into what others were doing. But if they were going to merge processes,
+they had to cross boundaries themselves. Having them all in touch with one
+another, and at the same meetings, made for lightning-fast decisions.
+This was crucial, for they were dealing with immense complexity. Even
+on the accelerated schedule, designers had athletes come into their labs. The
+designers body scanned them to see where they lost and retained heat. They
+even worked with production teams to test materials in a simulation of
+Beijing’s environment.
+The designs were for customizable modular outfits, which added more
+challenges to the production—not for a mass market. For the opening
+ceremony, for example, the bright red parka called for straps inside so that
+if the weather was warm, the parka could be worn as a backpack.
+Removable sleeves could turn it into a vest. And a removable bottom
+section could be refashioned as a scarf or even a travel pillow.
+Following the lean manufacturing playbook, the Lululemon team
+focused on bottlenecks—and came up with ways to fix them. One of the
+thorniest they faced involved the intricacies of the fabrics. This was
+challenging: Many of them were to feature prints and patterns drawn from
+microscopic images of Canada’s emblematic maple leaf. The colors,
+following the metamorphosis of the leaf through the seasons, were to range
+from the autumnal red of the maple leaf to snowy white.
+Normally, this range of fabrics and colors would have called for multiple
+crossings of the Pacific. Instead, the designer and supply-chain leader
+traveled together to oversee the dyeing process at the source factory. The
+back-and-forths, which used to take weeks and even months, were handled
+in minutes.
+As a result of these changes, Lululemon not only met the deadline; its
+outfits also won rave reviews, including from The New York Times, which
+called it “a win for a brand that had never made an Olympic kit before as
+well as for the team that will wear it.”
+After the unveiling of the Olympic outfits, video of the designs went
+viral on TikTok, and the collection sold out within hours. Like GM’s
+Hummer EV, Lululemon’s Olympic garb was a halo project and a smashing
+success. International awareness of the brand shot up.
+The fast turnaround led Lululemon to hunt for other cycle-time
+improvements. One area of focus was to speed up delivery to customers.
+The company had a network of distribution centers and could usually
+deliver shipments within two days. The challenge was to speed it up by a
+factor of twenty-four, to two hours. This was urgent because e-commerce
+giants were establishing a new same-day norm.
+The solution was to get closer to customers by using stores as
+distribution centers. They then made a deal to engage Uber drivers for
+delivery. This created a premium service, one that members could get for
+free. The upshot: Speeding up cycle time fortified customer retention.
+The long-term benefit of radical cycle-time improvement is showing the
+organization that it can go faster. And that revisiting a process and
+constantly looking for improvements in cycle time will yield a potent
+competitive advantage.
+GUIDANCE
+Accelerating cycle time can quickly break a process. And this can be helpful to
+show the weaknesses of a current process. But remember, this book is all about
+imagining a new process. And that needs to be done first. No need to waste time
+speeding up the old process.
+Instead, design, simplify, optimize, and begin to work your new process. Then
+speed it up. Aim for 50 percent increases in speed each week. The barriers to
+achieving that kind of stretch goal will show you what needs to be optimized. In
+other words, accelerating cycle time will show you where to work.
+For the Lululemon managers, that meant the dyeing process. And they broke
+the speed barrier by going to the factory to sit side by side for the dye and
+approval process.
+Each of these examples of cycle-time improvement shows how improvements
+can increase the speed of cash through a business. Whether radical or
+incremental, the changes are often decisive. The competitor in a market with the
+highest rate of speed of cash through its business typically wins. The cash flow, of
+course, is wonderful. But the improved operations also result in higher quality.
+As a leader, you can take any process, speed it up, and then watch where it
+breaks. This will show you where to focus. A process can go only as quickly as its
+slowest step. Working on that faulty step speeds up the entire process. Often,
+you’ll need to innovate like crazy to speed up that step.
+The best operational leaders that I know look at systems as a whole. They
+measure the cycle time from end to end. Rather than working randomly, they work
+systematically. And one of the powerful tools in their arsenal is speed in the form
+of cycle time. It can be yours, too.
+OceanofPDF.com

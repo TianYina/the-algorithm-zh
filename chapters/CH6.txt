@@ -1,0 +1,149 @@
+E
+CHAPTER SIX
+Radical Rethinking
+THE FIVE STEPS OF THE ALGORITHM, COMBINED
+ARLY  IN  MY  time at Tesla, sales were booming. It was 2015, and the
+Model S was the top-selling electric car in the world. The larger
+Model X, an SUV with falcon-wing doors, started rolling off the line.
+Nevertheless, the company had invested heavily to build up production and
+was still strapped for cash. And even though we were eager for greater
+revenue, the growing number of Tesla customers strained our system in
+dangerous ways.
+The immediate problem was service. Our network of service centers was
+built to handle a smaller market, and backlogs were growing at an alarming
+pace. Our US customers were waiting up to thirty days for simple repairs.
+Delays were even longer in China and Scandinavia. Our mission was to
+delight the customer, but our service snafus were making them miserable.
+The issue was popping up on internet forums, damaging our brand and
+discouraging new buyers.
+My operations team did the numbers. We were way behind. To handle
+our growing customer base we needed another hundred service centers, and
+fast. The good news was that we’d learned how to make them more
+efficiently, reducing the cost of each one from $5 million to $3 million. It
+was with that mixed message that I went to Elon.
+He was sitting in the middle of the conference room in Palo Alto. He
+listened as I explained the problem and detailed the solution. The price tag
+would be $300 million.
+He shook his head. “Jon,” he said, “we just don’t have the money. You’ll
+have to find another way.”
+It was a tough challenge, but I knew he was right. It was very similar to
+a challenge I’d faced in my early start-up, Sterling Collision Repair.
+Eliminating complexity there led to dramatic gains in speed, fueling growth
+and expansion.
+We could have improved our service performance by focusing on
+bottlenecks. But the situation in the maxed-out centers was dire. The
+challenge required us not just to speed up the flow but to transform the
+entire process as well. We had to come up with a new way to do a whole lot
+more with a whole lot less.
+This meant radically rethinking how we were doing business and
+coming up with a better idea. The right idea would be worth $300 million.
+I’d like to say that I solved the problem. But the smartest thing I could
+do was assign it to someone with a hand in the business. So I drove to the
+Tesla service center in Palo Alto and talked to the manager there, Chris
+Sullivan. Chris’s father had worked for me at Sterling, and I’d known Chris
+since he was a boy. He understood lean manufacturing techniques. He’d
+read The Goal and followed the Algorithm.
+I gave him a challenge. Over the next thirty days, I asked him to tell me
+what percentage of our customers’ cars we could fix in twenty minutes—in
+other words, before they finished the cup of coffee we gave them.
+A month later, Chris called and said he had something to show me. I
+drove over and saw that he and his team had reinvented the entire process
+of servicing cars. Instead of a customer-service employee out in the parking
+lot greeting the customers, he had a senior technician out at the curb.
+Chris’s idea was to put knowledge at the very front of the process. In the
+majority of cases, the technician could interview the customer and
+understand within seconds what the problem was and the fix it required.
+This was the beginning of a triage operation.
+The lot was divided into four lanes: small, medium, large, and extra
+large. The technician would send the quick fixes, such as broken windshield
+wipers or faulty seat recliners, to the smaller lanes. Those problems could
+be fixed in twenty minutes or less. About 80 percent of the cars passed this
+cup-of-coffee test, Chris told me.
+Cars with bigger issues were sent inside and lifted. But thanks to the
+triage, customers didn’t have to wait nearly as long.
+Chris had come up with a smart solution to the service crush. He
+eliminated the bottlenecks by reinventing the entire process. If cars didn’t
+need to go into a building, we didn’t need buildings. And if we didn’t need
+buildings, we could do a majority of the repairs with a mobile approach. I
+gave him a hug. “You just saved us $300 million,” I said.
+That approach transformed our auto-repair process. Tesla’s customers
+were wowed. The experience was fast and, as auto repairs went, painless.
+And competitors had no idea how we were doing it. The fact was, we had
+no choice. Our service centers were overwhelmed, and we couldn’t answer
+the challenge with money. That forced us to follow the Algorithm to a
+breakthrough.
+The interesting thing about radical solutions is that they tend to open the
+door to more creative thinking that leads to further breakthroughs. I
+remember looking at the service-center triage operation. Standing to one
+side were the customers sipping their coffees or teas. These were busy
+people. To get there, they’d have taken the time to drive through Palo Alto
+traffic, with all the maddening red lights on El Camino Real. We’d already
+shortened their visits. Could we eliminate them altogether?
+We decided to launch a home service, making house calls with
+customers the same way doctors did with patients a century ago. We didn’t
+have the funds to build and equip a new fleet of Tesla service vehicles, but
+we had a few returned cars—so-called lemons. We outfitted them with tools
+and software, converting them into an improvised fleet. When customers
+called with problems, we were often able to send a team member to fix
+them that same day.
+It was a great success. We turned a festering problem into a solution that
+delighted customers. It greatly reduced the load at our service centers, and
+we didn’t have to worry, at least for a while, about needing more of them.
+One additional benefit of this innovation was that it promoted
+interactions between Tesla team members and customers. The encounters
+tended to be friendly because customers generally appreciated getting their
+cars fixed without even having to leave their homes. Karim Bousta, the
+global leader of service, came up with the idea of making the interactions
+even more positive by installing espresso machines in the service fleet. That
+way, the mechanics not only fixed the cars but also surprised customers
+with a delicious cappuccino or latte.
+This story encapsulates many aspects of the Algorithm. I call it an end-
+to-end example. First, the hunt for a faster and more affordable service
+solution led us to question every requirement, step 1 of the Algorithm. Did
+customers have to schedule repairs? What if we could do them on the spot?
+Was it even necessary for them to bring their cars to the service center? In
+many cases, the answer was no.
+The solution also eliminated steps in the production process, step 2 of
+the Algorithm. In the backlogged legacy operation, a customer-service
+person or app took each customer’s details and acted as a liaison to the
+mechanic. That step was eliminated. In the new process, the most senior
+mechanic dealt directly with the customer. Reducing steps and pushing for
+ever-greater simplicity led not just to incremental improvements but also to
+reinvention.
+One of the cultural ingredients of the Algorithm, also reflected in this
+example, is to broaden the product or service to include the customer
+experience. In the case of Tesla, this wasn’t the least bit difficult. It was
+easy to understand how a fabulous experience driving an electric car down
+the Pacific Coast Highway or speeding on a German autobahn would be
+ruined if the battery ran low with no charging stations nearby. Charging was
+part of the customer experience, as was financing and every app on the
+screen. So was service.
+Processing 80 percent of the cars within twenty minutes saved our
+customers time, as well as a return trip. And for many, the house calls
+removed the need for any trip at all. Eliminating steps enhanced the
+customer experience and paid off royally in customer satisfaction.
+DIGGING INTO THE FINE PRINT
+In his book Thinking, Fast and Slow, the psychologist Daniel Kahneman
+analyzes the mental shortcuts we take in every aspect of our lives. To free
+up our minds for the cognitive work we deem important, we accept
+countless rules of thumb, or heuristics.
+Some of these heuristics were true at one point but are sorely out-of-
+date. Others were false from the get-go. By digging into everything we take
+for granted—rules, customs, accepted truths—we can unearth great
+opportunities.
+This happened to me not long ago. It started with a discussion on
+CNBC’s Squawk Box. I was on a panel discussing investing in so-called
+supercycles. These are the transformative technologies that come around
+every century or so, jolting our lives and economies. Steam power, the
+internal-combustion engine, and the internet were three such technologies.
+Now, you could argue, the supercycles are speeding up. We’re facing a slew
+of them, from AI and robotics to biotech and the electrification of
+everything.
+The question for me was how to invest in the current roster of
+supercycles. I replied that I assumed there were plenty of exchange-traded
+funds (ETFs) offering portfolios of investments in these technologies.
+In a sense, I’d answered with a heuristic. I didn’t know about specific
+ETFs but assumed that I understood enough to answer the question
+intelligently. After all, reputable firms market ETFs, and smart people
+assemble them. Was there any reason to think that they wouldn’t capture the
+potential of these supercycles?

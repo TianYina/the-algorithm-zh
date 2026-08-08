@@ -1,0 +1,405 @@
+S
+CHAPTER TWO
+STEP 2
+Delete Every Possible Step in a
+Process
+EVERE  FINANCIAL  PRESSURE  was a constant during my early years at
+Tesla. Cash was always short and the threat of bankruptcy all too real.
+We desperately needed to figure out how to do more with less because
+often, we were running the company with less than three months of cash on
+hand. This injected a real sense of urgency into our work, but it also sparked
+innovation.
+The year 2015 was especially challenging. Sales were slumping. We
+were struggling to get the Model X into production, and cash flow was too
+weak to keep us afloat. Especially concerning was an area that in our
+cutting-edge market should have been a strength. Instead, it was anemic.
+It would have been easy to say, as many did, that e-commerce simply
+didn’t work for an expensive purchase like an $85,000 car. Customers
+needed to work out financing. There were lots of options to review. It was
+easier to do this at a Tesla store.
+Elon didn’t agree. Instead, he set what seemed like an outrageous goal:
+to grow digital sales by a factor of twenty—and to do it ASAP.
+This stretch goal was not based on deep knowledge of online shopping
+trends or clear ideas on how we would achieve it. His method was to set
+hugely ambitious targets so that our teams would work feverishly on the
+problem, questioning all the underlying assumptions. That was the process
+most likely to produce breakthrough ideas.
+When I’m looking to streamline, I start by asking managers to detail
+their process, step by step. First, I want to see if they know all the steps and
+understand what each one accomplishes. That exercise alone can lead to
+some reductions, though usually far short of the 80 percent cuts we were
+aiming for at Tesla.
+Then I ask them to circle each step that the customer doesn’t pay us for.
+For example, we don’t get paid to recheck our accounting or carry out
+performance reviews. Those are ripe for removal. The process can be
+painful, and even counterproductive. Maybe 10 percent of the steps actually
+need to be reinstated. But by going a bit too far, we establish where the
+limit is.
+To grow digital sales twentyfold, we first had to understand our target
+market. For years, the assumption internally was that Tesla owners fit into
+two camps: performance or environmental. Some straddled both. But was
+this assumption correct? Our sales leader, Ganesh Srivats, and Michael
+Rossiter, who headed analytics, set off to find out.
+What they came back with was surprising—we had not two but really
+five core buyer types:
+1. Tech. These customers were focused on our assisted-driving
+technology, Autopilot. Our software and the app were central to them.
+2. Safety. Unlike the tech buyer, who was predominantly male, the
+safety buyer was almost exclusively female. The fact that Tesla’s
+were the safest cars in an accident mattered most to them. Autopilot
+was a negative initially.
+3. Performance. These buyers love feeling the g-force while in
+Ludicrous Mode, racing from 0 to 60 mph in 2.5 seconds. Safety was
+a much lower priority to them.
+4. Environment. These customers were most focused on the carbon
+savings their purchase would generate. Strangely, despite our
+leadership in electric cars, we had little to nothing on that topic on the
+website.
+5. Status. This one surprised us. These were drivers who otherwise
+might be behind the wheel of a Ferrari or Lamborghini, but they saw
+Tesla as a green, cutting-edge alternative.
+It was evident from the start that the e-commerce site had plenty to cut
+and optimize. We saw that the information many potential customers care
+about most—the models, prices, availability, and battery range—were
+buried under a lot of power and acceleration numbers. The site seemed
+entirely targeted at performance buyers.
+Ganesh and Michael also brought back insights into the buyer journey.
+Almost all the buyer types researched their purchase for thirty to sixty days
+before finally pulling the trigger to purchase.
+With these insights, we redesigned the site, creating tabs with details for
+each of the buyer types so they could quickly and easily confirm that a
+Tesla car was for them. Sales ticked up, but not nearly enough to meet
+Elon’s target. Questioning our assumption of who our core customers were
+was helpful, but we hadn’t stretched the limits of how that could simplify
+the sales process. Not yet.
+Next came the hard part. Buying one of our cars online was laborious: It
+took sixty-four clicks from beginning to end. It was a long and tedious
+customer journey. With each click, we could imagine potential customers
+pocketing their phones or closing their laptops in frustration. Time kills
+deals. This led Elon to set another stretch goal. “Let’s get it down to ten
+clicks,” he said.
+Removing every possible step in a process is the second mandate of the
+Algorithm, and this example fits neatly. Like other cases, it extends into
+several other aspects of the Algorithm. If you’re going to reduce steps (step
+2), you’re no doubt going to question every requirement (step 1) and also
+simplify (step 3). Such overlapping is natural, for so much of the Algorithm
+is focused on squeezing time, energy, and expense from operations. The
+magical aspect of this problem-solving is that it can lead to dramatic
+innovation, even reinventing an entire process.
+Why did it take so many clicks to buy a car? For starters, customers
+faced a lot of choices. Tesla made the decision early on to be a made-to-
+order producer. That’s unique. But no one had questioned in years the sheer
+number of choices we were presenting to customers. There were seven
+colors, varied seat covers, and different engine features to choose from. The
+options seemed endless, with more than three hundred thousand potential
+unique combinations.
+Over coffee one day with Sterling Anderson, head of the Model X
+product teams, I was lamenting the choice overload customers were
+experiencing. Sterling confirmed my hunch and mentioned The Paradox of
+Choice by Barry Schwartz, a book that proved mathematically how too
+much choice kills the customer’s ability to make a decision. I read it
+overnight. It opened my eyes to the hard work that would come next. We’d
+have to convince the engineering teams to simplify the offerings from
+unlimited choice to core packages. Not only would that decrease clicks and
+increase conversion; it would also simplify manufacturing, the supply
+chain, and distribution.
+If we dumbed down the whole process, giving customers only a few
+choices, it would eliminate a lot of clicks. But even to suggest it might seem
+blasphemous, given the core belief that Teslas were made to order. Were we
+going to revamp our entire production to reduce clicks on an e-commerce
+site that accounted for a tiny fraction of our sales?
+I grabbed Doug Field, head of engineering, and Greg Reicheld, head of
+manufacturing. I wanted to loop them into the results of the research on our
+core buyers and the cost of the choice complexity we were presenting to
+them. We discussed many other smaller groupings of Tesla customers, but
+all of them ultimately fit into one of two camps: practical buyers or
+performance buyers.
+Given that, I asked, what would happen if we reduced the options to just
+two packages?
+They told me it would “make us look like Honda.” That was not where
+they saw the company or wanted it to be. Tesla was an exclusive brand,
+even as we were expanding our lineup to reach the vast swath of middle-
+income drivers.
+When I asked what the impact of this simplification would be on
+manufacturing, they told me they’d get the data.
+A week later they reported that reducing the choices to two basic options
+could transform manufacturing, simplifying it and lowering costs. It would
+also create supply-chain efficiencies because we would be buying in greater
+bulk from fewer suppliers.
+From a manufacturing perspective, it made a lot of sense. But the
+concerns about the brand were real. A good number of our customers were
+paying top dollar for a car. Would they be unhappy with a much smaller
+menu of choices?
+It seemed to me that many luxury businesses focus on quality while
+offering limited choices. For example, unlike classic American diners,
+which have gigantic menus, fine restaurants often present guests with a
+single sheet of paper featuring only a handful of choices. The customer
+trusts that they’re all good. As long as the customer believed in our brand, it
+seemed that we could also reduce our options to a single sheet.
+Doug and Greg were on board and up for giving it a go. The impact on
+supply chains, manufacturing complexity, and margins had the potential to
+be substantial.
+I took the idea to Elon, and he went for it right away. So we dove into
+implementation mode. We simplified our offerings, slimming down the
+manufacturing and the supply chain. These changes were more important
+than the work we were doing on the e-commerce app, but the two were
+related. It was the process of counting clicks that led us to reduce
+complexity in our operations.
+The impact of this simplification on sales was almost immediate.
+Conversions soared both in the stores and online. Sales increased by more
+than 20 percent. Costs decreased, albeit more slowly, and our gross margins
+improved to record levels.
+The huge adjustment took us more than halfway toward our e-commerce
+goal. It lowered the click count from sixty-four to thirty. We’d made a lot of
+progress, but we still had three times too many clicks. How to get rid of the
+last twenty?
+Most of the clicks had to do with financing, including loan and lease
+documents that required dozens of signatures. How many of those
+documents were really necessary? This takes us back to step 1 of the
+Algorithm. There appeared to be a set of rules that the entire industry
+followed, literally to the letter. Some of the wording had come down
+through generations.
+I discussed this with Elon. He had a simple insight: The essence of a
+loan, boiled down to a single-paragraph agreement, is that the buyer
+guarantees to pay a certain amount every month until the car is paid off. He
+asked, “Why has one paragraph turned into dozens of pages and
+signatures?”
+The answer was legal requirements in each state. He immediately
+challenged our team to research every one and to come back with a
+summary of which were actually required by law and which were not.
+We discovered that the supermajority of the documents were created by
+bank lawyers taking every precaution to protect the bank’s interests, not by
+regulators. Questioning every requirement, the first step of the Algorithm,
+led us to a potential innovation that no one in the industry had even
+considered: a one-click loan or lease document.
+First, we had to get the banks on board. This effort was led by Bill
+Donnelly, our in-house banking guru. Bill asked dozens of banks if they
+could create a one-paragraph loan. They told him he was crazy. He kept
+looking for a taker.
+Finally, two banks agreed to consider this crazy idea: U.S. Bank and
+Ally Bank. Both were known as sophisticated players in the auto-finance
+market, and they were small and nimble enough to be innovative.
+Working with the team at U.S. Bank, we studied all the documents that
+require signatures. We found that 90 percent of the content was pro forma
+verbiage. Some of the paragraphs were repetitive and apparently
+unnecessary, but they remained because people judged it a risk to remove
+them.
+Meanwhile, we were collecting customer information that we could
+share with the bank. We had a lot of data on the customers, so the bank
+didn’t need to ask for it. The result was a one-click loan application.
+Our head of sales operations, Zean Nielsen, took it a step further. Zean
+worked with Experian to get prefilled data for each customer. That meant
+all we needed was the customer’s name and driver’s license. The rest of
+their information would prefill on the loan and leasing forms.
+The result? With only twelve clicks, customers could buy and finance a
+Tesla. Over the next ten months, sales on the site and app went up by a
+factor of twenty.
+This innovation transformed the face of digital sales for the automobile
+industry—and the process started by simply setting a goal to reduce the
+number of clicks (or steps) a customer would have to make on our website.
+HURRICANE IRMA: FREEDOM TO IMPROVISE
+Eliminating every possible step not only transforms manufacturing and
+makes life simpler for consumers. It also adds speed, which can make all
+the difference when dealing with emergencies.
+That’s what we were facing in September 2017. A fearsome hurricane
+named Irma was barreling through the Caribbean, pummeling Puerto Rico
+and Cuba. It was the most powerful Atlantic hurricane ever recorded at the
+time, and it was poised to batter Florida. The threat sparked a massive
+exodus, with nearly 6.8 million Floridians leaving their homes.
+The result was a massive statewide traffic jam. The northbound lanes of
+every highway were packed.
+We began to receive many calls from our concerned customers. Stalled
+traffic was consuming their batteries. They were seeing their ranges shrink
+minute by minute. Many feared that they’d end up stranded on the side of
+the highway, in the path of the coming storm.
+Karim Bousta, who headed up global service, was reading emails from
+increasingly worried Florida customers as they inched northward. One
+woman in Florida came up with an idea: She wanted to pay Tesla for access
+to more battery power in her Model S.
+The battery of her cut-rate Tesla, she knew, was engineered to withhold
+30 percent of its capacity. If she wanted access to that power, the upgrade
+would cost $4,000. She didn’t want to buy that. What she proposed was a
+temporary upgrade, for maybe a week. What would that cost?
+Karim’s services team saw that many of the urgent messages coming in
+from Florida were from customers like her, all of them driving shorter-
+range economy models. (Their 220-mile range was fine for commuting and
+errands, but bad for mass exodus up a long peninsula.)
+The storm had pummeled Cuba and was approaching Florida. Winds
+were already whipping. Karim called together a small council: a couple of
+engineers, a customer-service person, and himself. Brian Boggs, his
+software lead, told him that a targeted update could work. It was technically
+possible to provide additional range to drivers in evacuation zones with a
+software update. But there were risks.
+This is when Karim faced a choice, and it had to be made quickly.
+Updating the software of thousands of cars, giving them a free and
+temporary battery capacity upgrade, was a momentous step, both legally
+and technically. And if the update failed, it could be disastrous, conceivably
+draining the batteries or turning off the cars. The company could face
+ruinous lawsuits. Karim could get fired, as well as being roasted in the
+press. All sorts of bad things could happen.
+But a very bad thing was about to hit the Florida coast, and Tesla
+customers were desperate for range.
+I worked closely with Karim at the time. Together, he and Ganesh and I
+had our hands on just about every part of the company. Karim, a
+Frenchman, had moved from Paris to California in 2008 and joined Tesla
+seven years later, just months after I started.
+Karim came to Tesla in large part because he loved the car. In the early
+2010s, he was living in Palo Alto, where Tesla had its largest market
+penetration. “I was seeing the first Teslas on the road,” he says. “I thought,
+‘This company’s going to change the world.’ ”
+He bought a Model S in 2013. Two years later, he was in Elon’s office,
+interviewing for a job with us. It was to run Tesla’s global service network.
+“I told Elon,” Karim recalls, “that I knew nothing about cars.”
+Elon’s response: “That’s good.” He told Karim that he wanted people
+who hadn’t lived within the century-old industry and been shaped by its
+norms. He wanted people who thought differently.
+Karim took this seriously. When he started, he pushed hard for each
+person’s freedom to make decisions on their own and to take initiatives.
+There were only three conditions, as he saw it:
+1. Make sure you won’t hurt or kill anyone.
+2. Don’t break the law.
+3. Don’t do anything that might cost the company millions of dollars.
+Aside from those, the mandate was to come up with ideas and execute
+them. “It gives you great freedom,” he says, “and creates amazing
+opportunities.”
+As the hurricane approached, it was Karim facing the decision about
+whether to take a huge, risky, and unapproved initiative.
+It was vital to help the customers, who could be in harm’s way within
+hours. That was the urgent priority. But the hurricane, he knew, also posed a
+challenge to our brand. If Teslas failed to perform in dire circumstances,
+consumers would take note and conclude that our battery-powered Teslas
+were not cars they could count on.
+In many people’s opinion, we were still selling an unreliable technology.
+If an internal-combustion car, a Chevy or a Ford, ran out of gas on the slow
+way north, no one would think to blame the manufacturers or the
+technology. But new technologies are viewed differently, and at that early
+stage of electric vehicles, a host of paralyzed Teslas on the side of Route 95
+would reinforce range anxiety on the part of the public, which is the
+greatest concern when buying an electric car.
+There was also the PR angle: Would the press and all the Reddit
+subgroups of Tesla enthusiasts feel cheated when they learned of our battery
+manipulations? Some Floridians, envisaging hurricane scenarios, had spent
+the money for full-range cars. Would they press for refunds once they saw
+that the economy drivers got handouts?
+Karim and his small team spent a few minutes weighing the risks. He
+went through his three conditions:
+First, was it possible that sending the software update might kill or hurt
+anyone? That was within the realm of possibility. If the update flopped and
+cars shut down, people could drown or get crushed by trees. But the same
+thing could happen if their batteries died.
+Second, would Karim and his team be breaking the law? They didn’t
+know, but they figured that if they happened to break some law while trying
+to help thousands in the path of a hurricane, they’d defend their case.
+Third, could it cost Tesla millions of dollars? Again, perhaps. But
+customers were clamoring for help. Doing nothing helped no one, and the
+software update could make a difference.
+“Force it,” Karim told his team. Facing the emergency, he was deleting
+most of the steps of our normal process. He wasn’t slowing down to ask me
+or Elon for the go-ahead. And his team wouldn’t have time to carry out
+more than a few minutes of testing on the update.
+The engineering team created the update within a few hours. By 10 p.m.
+Pacific time, they had it ready. They updated two thousand cars in South
+Florida and sent them a note, telling them that they’d have more range for a
+week and wishing them well in a very difficult time.
+Florida customers were thrilled when they got notifications that their
+cars immediately had 75 miles more range for the next week—and for free.
+The press picked up on it, and Tesla was applauded for doing the seemingly
+impossible—responding to customers and changing the capabilities of
+thousands of cars within hours. Karim’s bet paid off in every way. Tesla’s
+stock even went up.
+It’s easy to praise people who blast by the usual requirements during a
+crisis and make smart and timely moves. However, not every case works
+out as well as Karim’s improvised updates during Hurricane Irma. The key,
+though, is to foster a culture in which people have the confidence to make
+important decisions and take action—and to back these people up even
+when things don’t go as planned. Occasional flubs are inevitable in a
+corporate culture that embraces risk. They’re proof that people are ready
+and willing to take initiative.
+ZUMI: DON’T BOTHER WITH THE BILL
+A few years ago, I was with my two partners at DVx, Karim Bousta and
+Ganesh Srivats, at a DVx offsite meeting in Miami. After a busy day, we
+convened at an excellent restaurant. We enjoyed sunset cocktails on a
+rooftop terrace and then sat down to a meal. Every element of the
+experience was ideal—until we asked for the check. By that point, we were
+weary from a long day of work, eager to wrap up, and we found ourselves
+waiting for far too long. That frustration was the only negative, but it stuck
+in our memories. This was a business opportunity: to remove the only
+unpleasant step in an otherwise pleasant experience.
+When we come up with an idea like this at DVx, one of the three
+partners takes the lead. The natural to lead our restaurant venture was
+Ganesh. It was Ganesh’s work in his ten years as a top executive at
+Burberry that had led Elon to hire him to run Tesla stores. He knew all
+about customers.
+He also knew a better model. When Ganesh was a boy in southern India,
+his father belonged to a club where he could walk away after lunch without
+asking for the bill. At those clubs, like others around the world, the
+expenses were included in their monthly bill. “You walk out, and they know
+who you are,” Ganesh says. “I thought, ‘Why can’t I get this experience
+everywhere I go?’ ”
+It’s no secret why the clubs can afford to let diners walk away without
+paying. They know their members’ names, they have a billing relationship,
+and there’s a strong element of trust that they’ll pay.
+Would there be a market for a tool that would give a restaurant and its
+customers a way to behave more like a dining club in Chennai? Ganesh did
+some research. To no one’s surprise, it showed that customers enjoy
+engaging with the restaurant staff throughout the meal. But the good times
+end when it comes time to settle up the bill. First there’s the issue of getting
+the server’s attention, raising hands with the little writing motion. Then
+there’s the wait for the check, often with delays, and in old-fashioned
+restaurants, the sluggish back-and-forth with the credit card. Even with the
+more efficient payments at the table, there’s the uncomfortable moment
+while choosing the tip under the server’s watchful eye. “Is this how you
+want to end the experience?” Ganesh asked.
+The research showed that the payment step is not only unpleasant for
+customers. It also gums up the works for restaurants. The check cycle at
+each table takes an average of twenty minutes in New York and London.
+That’s idle capacity. The restaurant could be making money from those
+tables, and instead they’re sitting there, with increasingly unhappy
+customers peering anxiously for their server. Worse, to carry out the
+laborious payment work, they have to hire more staff.
+The extra waiting time costs a restaurant revenue in a number of ways.
+Picture yourself at a restaurant with an empty wine glass. The entrée has
+arrived, but it’s hard to get the waitstaff’s attention because they’re running
+around with credit cards and payment machines. Freeing the servers from
+that job gives them more time to dedicate to their customers’ needs and
+appetites: to sell them more food and drink. “It’s like giving them another
+twenty minutes,” Ganesh says.
+We figured that it wouldn’t be hard to replicate a similar setup to give
+the same service to everyone. The ride-sharing platforms, from Uber and
+Lyft to China’s DiDi, all provide similar apps for mobility, and they
+effectively eliminate the payment step. It’s one of their advantages over
+traditional taxis.
+A similar mobile app could handle a restaurant reservation, the ordering
+(if desired), the default tip, and the credit-card or bank payment. People
+could enjoy a meal and then leave, as if they owned the place.
+We called our new company Zumi. “It means ‘to be taken care of’ in
+Japanese,” Ganesh says. “In Hindi it means ‘joy.’ ” In the summer of 2024,
+we debuted our app in a restaurant in the Notting Hill neighborhood of
+London. Business promptly grew 20 percent over the previous year. The
+restaurant found that payless dining gave customers a sense of being
+known, and belonging. Some quickly became regulars, and they started to
+treat the restaurant almost as a club.
+As an entrepreneur, this step-removal thinking is a key generator of new
+business ideas. It involves focusing on the nastiest moment of any job or
+experience. Devising a way to get rid of that unpleasant step can lead to
+startling efficiencies in an enterprise—and in some cases, a new company
+altogether.
+GUIDANCE
+If you find it difficult to reduce the complexity of your operation to a series of
+steps, try this: Imagine teaching every aspect of your operations to a highly
+advanced, but entirely ignorant, robot. You have to explain every element in
+excruciating detail. The thing doesn’t even know what to do with its arms and
+hands without explicit instructions. Teaching it will take all day.
+It’s at this point that you might start looking for shortcuts. Do we really need
+this task? Isn’t this one already covered? And maybe we can combine three of
+them, eliminating two. Once you’re tuned into the minutiae of operations, and
+each one (in this game) is a pain, you might get a lot more creative on how to
+chop out steps, gaining in step 2 of the Algorithm.
+By making the effort to see your business through the eyes of the uninitiated,
+you can start to ask, again and again, the most important question in the
+Algorithm: Why?
+Another idea: Launch a contest among your colleagues. See who can spot a
+single step to be eliminated. Maybe it’s duplicative, and not needed at all. Maybe
+it was created for the old status quo and simply hung on. Some steps, you’ll find,
+are necessary but can be folded into other actions.
+OceanofPDF.com

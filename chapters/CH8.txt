@@ -1,0 +1,362 @@
+T
+CHAPTER EIGHT
+Inject Urgency and Accountability into
+Your Organization
+UESDAY  AT  THE  Palo Alto engineering center meant that Elon was
+coming. He had recently read Tim Ferriss’s bestseller, The 4-Hour
+Workweek, and he was determined to maximize his impact while spending
+only one day a week at Tesla. (He fell just a bit short of that goal during my
+time at Tesla, but got it down to a day and a half.)
+Elon’s goal was to maximize his value, whether per minute or per day.
+For this, he would focus on three or four pressing issues—and delegate
+everything else.
+He kept a running list in his head of the things that really mattered to the
+company’s survival. They centered, almost exclusively, on the product: our
+drivers’ experience in a Tesla. In this way, Elon followed Steve Jobs, who
+kept a tight grip on the product, from design through manufacturing, even
+as he ran the entire company. Elon felt the same way. The product was the
+brand and, in Tesla’s case, the marketing. The product engaged the
+customers and brought in revenue. The product was the essence of the
+company. He believed that the product should be so good that it didn’t need
+to be marketed (and thus wouldn’t need a sales force). Consequently, the to-
+do list in Elon’s mind revolved relentlessly around the product—from
+designing and manufacturing it to fixing it and enhancing it.
+At Tesla we placed special emphasis on the parts of our product that
+customers touched the most. Certain areas, such as seats, steering wheels,
+and windshields, were fundamental to the experience. Drivers were
+physically in constant contact with these components. They really mattered.
+(We spent a ton of time on seats.) Other parts, like dashboards, were less
+crucial, as long as they didn’t look cheap and plasticky.
+Elon would zero in on two or three issues that he deemed critical. It
+might be a problem—a manufacturing bottleneck or a mechanical glitch. Or
+it could be an opportunity, like tripling the speed of the paint shop. In the
+case of driver seats, we as a team were so unsatisfied with the seat in the
+Model 3 that twelve months into production we were on the thirteenth
+version of it. The pursuit of product perfection was relentless.
+He assigned teams to tackle these challenges. On Tuesdays, he expected
+progress reports. Teams would tell him about steps taken, learnings, and,
+most importantly, results. However, these weekly sessions with the CEO
+weren’t for mere status updates; they were problem-solving sessions.
+This was what we called Elon’s “weekly cadence.” It was his
+involvement, often intense, with the nitty-gritty of our automaking business.
+I cannot think of a better way to light a fire under a team than to set a firm
+goal with a deadline and make the team report on progress directly to the
+CEO. Knowing what they would be facing on Tuesday kept everyone
+focused and pushing forward. And because teams were presenting directly
+to the CEO, they didn’t relent or make excuses. They brought their A-game
+every time. This created an immediate sense of urgency and accountability
+—which is the second cultural step of the Algorithm.
+To work effectively with colleagues, whether attacking problems in a
+weekly cadence or dealing with day-to-day issues, top management must
+have a firm grasp of the details involved, whether it’s a technical issue, a
+customer-relations challenge, or an international expansion. It’s important
+to be able to discuss and examine these issues, and it’s not enough simply to
+set a goal and a deadline. To create a meaningful dialogue and to hold
+people accountable, the CEO must understand the problems they are
+grappling with. In the best cases, the executive can contribute to the
+solution.
+The Tuesday meetings would include Elon and the senior leadership
+team that provided Elon direct reports, which included me, the heads of
+manufacturing and product, the CFO, and the leader responsible for
+resolving the problem or reaching the goal. That person was speaking to a
+very small audience, but principally to Elon.
+The weekly cadence was one of Elon’s most effective time-management
+tools. By running small teams on crucial issues and demanding weekly
+progress reports, he could supercharge his best innovators and problem
+fixers. It was a force multiplier. For a weekly meeting with the CEO, the
+teams, including some of the brightest people in each domain, would give it
+their all. They would research, experiment, and rack their brains, covering
+every possibility and reaching for others, so that they could report to the
+CEO at the Tuesday meeting that the issue was handled or the goal was on
+track. They were well aware that they would be held accountable because if
+there wasn’t progress, there was often a leadership change.
+One especially thorny problem involved the second-row seating for the
+Model X, our crossover SUV with falcon-wing doors. The original design
+called for two captain’s chairs: comfortable seats, but for only one
+passenger each. However, market research showed that parents preferred a
+bench seat so that three kids could sit together.
+It might have sounded like a simple fix. But the existing chassis lacked a
+central attachment point for a bench seat. For safety, our team had to figure
+out a way to secure the bench. The only other alternative would be to
+remake the entire chassis, which would have consumed far too many dollars
+and days.
+For a few tense Tuesdays in 2016, a central item in Elon’s cadence was
+this back-seat fixture in the Model X. It was holding up production and
+sales. The root of the problem may have been a simple detail, a metal-to-
+metal connection that had to be made. But it could sink the company if
+those Model X’s weren’t selling to projection.
+The team frantically searched for a solution. They stayed up late on
+Mondays, preparing their report. The sessions were fraught. People were
+frustrated, and short of sleep. It seemed as if they had hit a wall. There was
+a lot of shouting. Despite the high pressure, the results were still invaluable.
+The back-and-forths between Elon and the manufacturing team dealt
+with levels of torque, mathematics, and metallurgy. He engaged with the
+engineers on a fundamental level. He knew and understood what they were
+facing. His questioning focused on finding a solution.
+In one session, he was pushing the lead engineer on the gravitational
+physics and pressures on a cross member in the seat structure.
+“Do you know the formula?” Elon asked.
+“Not off the top of my head,” the engineer replied.
+“Well, I do,” Elon answered. He went to the board and drew out the
+formula, forcing the engineer to solve the equation on the spot. And the
+answer emerged.
+The stories told in the hallways after the meeting were the force
+multiplier: Elon had prepped for the session. The team needed to be one
+step ahead of that. And especially the lead engineer.
+The stories spread like wildfire. They set the bar high for work quality
+and pace. The CEO’s involvement drove a weekly cadence of improvement.
+I guarantee you that wasn’t happening at our competition, which made it
+very hard to keep up with us.
+The solution to the back-seat fixture in the Model X was maddeningly
+elusive. But in that session, Elon came up with the answer. After going
+through the team’s calculations, he discovered that they had in fact solved
+the problem. Yet they didn’t realize they had because they were measuring
+the wrong variable.
+In this issue, like many, Elon was operating in his sweet spot.
+Metallurgy and mathematics were central to his ultimate mission—to send
+humans to Mars, a passion of his for decades. He was strong in those
+domains, and he continued to study the manufacturing specifics of Tesla in
+great detail.
+Yet even after solving the back-seat fixture, that Model X continued to
+torment us. We produced the first 1,200 units of the car, but we couldn’t
+ship them because of a production glitch: The doors weren’t properly
+aligned. These luxury cars would be selling for $120,000, and the doors, of
+course, had to be perfect. The cars were piling up outside the factory—and
+not bringing in a single dollar of desperately needed revenue.
+This was a time for urgency and accountability, if there ever was one.
+Elon and I walked back the entire length of the production line, which was
+more than a mile. We were swimming upstream, looking for the spot in the
+process where the problem emerged.
+It wasn’t hard to see. Halfway up the line we came upon a pile of the
+car’s falcon-wing doors. They just didn’t fit, we were told.
+It didn’t seem to make sense. The calculations on the design were
+precise. Each part was perfectly sized. But when it came to putting the
+doors on, they just didn’t fit.
+We were all enormously frustrated, but all of us, including Elon and me,
+dove into the problem. This was the first time that I slept for nights on end
+at the factory.
+One day I was looking at the line. The cars rode along on trays as the
+workers and robots attached pieces to them. At the end of the line, they
+came down from the tray to the ground, and they seemed to settle just a bit
+on their wheels. This raised a question for me. I asked the lead engineer if
+his team calculated door alignment while the cars were sitting on the trays
+or on their wheels. He looked into it and came back with the answer. They
+were calculated on the trays. Once they adjusted for the weight on the
+wheels, they were able to fix the problem (chassis alignment), and we could
+start selling our Model X.
+That production problem posed a challenge to the entire team. It was all
+hands on deck. Everyone’s brain was focused on finding a solution. When
+team members see the CEO and the president of the company working
+eighteen-hour days on a problem and sleeping at the factory, they put their
+all into it. It creates an atmosphere of urgent problem-solving.
+IN  OUR  MONTHS  of Production Hell, when manufacturing in our robot-
+powered line was paralyzed, Elon’s weekly cadence focused on ramping up
+production and increasing numerical goals. First it was to produce a
+hundred cars per week. And then five hundred, and then a thousand.
+Sometimes, Elon’s method was persistent to the point of obsession.
+There was one area of the plant, for example, that was screwing up badly.
+Elon had the head of production send him an email every hour until the
+problem was solved. For seven days, the poor guy had to set an alarm, sleep
+for forty-five minutes, and then gather the latest data in the following few
+minutes for his email. This was an example of taking a good thing—
+aggressive goals and accountability—a bit too far.
+In recent years, more of Elon’s focus moved to autonomy. Tesla’s
+survival, he believed, hinged upon its transition to autonomous driving. One
+of the key metrics, and a focus in weekly meetings, was the number of
+miles that a Tesla could drive by itself without human intervention. Every
+week, teams would report. Each time a human had to take the wheel
+represented a failure of autonomy. It highlighted a problem to address. And
+the team was well aware that that problem had better be fixed by next
+Tuesday. (Tesla’s progress in autonomous driving has for years failed to
+deliver on Elon’s upbeat promises. To be fair, the problem is monstrously
+complex, closer to that of a Mars mission than to a bench support in a
+Model X.)
+The weekly cadence is a powerful tool for problem-solving and
+innovation. But the key is not that it’s a weekly meeting. What’s important
+is the energetic participation of the CEO—and the accountability that this
+person demands.
+This process requires deep study of the company, whether in retail or
+software or electric cars. Otherwise, it’s hard to have a meaningful back-
+and-forth. I had to work hard to get up to speed at Tesla, which was my first
+job in the auto manufacturing industry. I was lucky enough to get tutorials
+from the leaders of each domain at Tesla. The cofounder, JB Straubel,
+tutored me in electric cars. Our lead designer, Franz von Holzhausen, taught
+me aerodynamics. Doug Field, our engineering leader, taught me power
+electronics and the physics of how the car responds to driving conditions.
+Although I was by no means at Elon’s level in those technical issues,
+every little bit helped. I learned enough to understand the problems, ask
+smart questions, and suggest next steps. Since leaving Tesla, I’ve carried
+elements of the weekly cadence into every one of my ventures. I meet
+weekly with our CEOs on the core issues in their business, seeking to
+model the same type of collaboration and communication they need to have
+with their teams. It’s fundamental for working as a team to set and achieve
+distinct goals.
+This can reshape a company culture in two ways. First, it democratizes,
+because the top executive is working side by side with engineers or
+technicians. They’re attacking a problem together. At the same time, it feeds
+off the hierarchy. The CEO, after all, is not just working on the project, but
+also demanding results—and is far too informed by this point to be fooled
+by bullshit. This culture of knowledge and urgency drives problem-solving
+and innovation.
+CADENCE FOR START-UPS
+The rigor of a cadence—whether weekly or at some other interval—is not
+only useful for addressing problems but also for starting companies from
+scratch. At DVx, we built an entire framework around these rigorous
+meetings, all of them focused on goals and benchmarks for start-ups and
+early-stage companies. It became a disciplined approach for developing a
+concept into a company, pressing forward with it—and deciding promptly
+whether to pursue it or to pull the plug.
+Each of our ventures starts as an idea. It might be helping millions of
+small companies manage and optimize their heating and air-conditioning. It
+could be creating an AI tool to value used cars by analyzing photographs.
+As each idea progresses, it is put through a sequence of stage gates inspired
+by Elon’s weekly cadence. We have timing and quality metrics on
+scorecards, and we use them to create a high-pressure environment
+demanding both urgency and accountability. We hold weekly one-on-one
+meetings with a focused agenda: What milestone are we working toward,
+and what’s standing in the way of achieving it?
+We keep each potential start-up on a tight leash. They have small
+budgets, and every month the CEO must provide a concise overview of
+financials, milestones achieved, upcoming goals, next steps, and areas
+where support is needed. Ventures that fall short of our metrics are dropped
+quickly so that we can move on to another project.
+A speedy and rigorous vetting system has numerous benefits. It enables
+us to cast widely for ideas. We can even try out some that might seem
+outlandish, or like bad bets. If they pass our stress test, they might turn out
+to be excellent bets. (Some of the best ideas are the ones few believed
+would work.) Conversely, if they fail, we haven’t lost much money or time
+—and, as a bonus, we come away with new knowledge and contacts. If a
+key technology advances or a market shifts, we can return to the idea. The
+work is not lost.
+Running a start-up incubator at speed requires constant learning. Each
+start-up is like a graduate seminar on hyper-speed. There are technology
+challenges, new markets to explore, regulatory issues. In order to provide
+smart and timely feedback, and to partner with the team to navigate the
+challenges, study is indispensable.
+I push this fast and urgent methodology, whether as an executive,
+investor, or board member. I think it’s a crucial approach for allocating our
+resources and our energy behind ideas that will work—while also
+developing them quickly.
+STASH—A CEO PUSHES AN AI PROJECT
+One shining example is an AI project headed up by Brandon Krieg, the
+founder and co-CEO of Stash, the personal-finance app. From my seat on
+the board of directors, I got a close look as Brandon and his team raced to
+develop an AI for investing advice. It was a model of urgency and
+accountability.
+In his twenties, Brandon had cofounded EdgeTrade, a pioneer in
+electronic trading. Later, he went to Australia’s Macquarie Securities, where
+he headed up global electronic trading. His years in direct-to-consumer
+banking taught him a lot about how people handle their money.
+What he saw was a stark division between haves and have-nots. More
+than 40 percent of Americans, he knew, did not have cash on hand for a
+hypothetical car repair. Most of those people had income. It wasn’t enough,
+clearly. But if they had a financial adviser, as rich people do, could they
+manage to save a bit each week, if only a few dollars, and build savings?
+Working on a whiteboard in 2015, Brandon and his cofounder, Ed
+Robinson, drew up a plan for a company focused on people in this cash-
+poor segment of the market. The objective: help them save and invest.
+They called their New York–based start-up Stash. The financial app they
+developed helped users put a percentage of their earnings into savings. It
+also offered investing advice. The company generated a following. But its
+dynamic growth came a couple of years later, when Stash issued debit cards
+with a unique benefit: With every purchase, the user would receive a tiny
+slice of equity, a fraction of a share in a publicly held company. The idea
+took off, and Stash grew to $100 million in annual recurring revenue.
+But fast growth, as we saw at Tesla, creates bottlenecks. One area where
+they’re most likely to appear is in customer service. By 2024, Brandon
+recalled, the Stash helpline was receiving ten thousand calls per month.
+Customers were asking about their money, stocks, cryptocurrencies,
+retirement plans, interest rates. Some just had questions about the app itself.
+The consistent takeaway was that people needed financial guidance.
+“We have a huge financial literacy problem,” Brandon says, “and the
+average person has no one to call.”
+He pictured someone firmly in the middle of the economy, maybe the
+administrator for a dental group. That person might be wondering whether
+to finance a car or lease one, or whether to withdraw money from an IRA to
+pay a credit-card bill. But unlike the wealthy, she had no one to rely on for
+sound advice. The internet was the default option, and it was teeming with
+hucksters and misinformation.
+Stash didn’t have the resources to handle the thousands of calls. So
+Brandon decided to experiment with automation. He and his team had
+already gathered a wealth of customer insights and data from the call
+centers. He took the transcripts from thousands of service calls and dumped
+them into a basic AI foundation model. He wanted to see how close it came
+to delivering the right answer. In quite a few cases, it showed promise.
+This was enough to convince him that building an AI for customer
+service was a worthwhile objective, even a necessary one. An entire sector
+of the investing public badly needed advice. Wrong decisions could leave
+them broke and in debt. Right ones might spell economic security. Only a
+machine could provide the service to millions of them.
+By 2024, when Brandon was envisioning the system, he trusted that
+customizable AI had advanced far enough to handle language, whether
+shorthand, mistyped, or slangy. It would be able to analyze the issue, search
+through the data, and, hopefully, provide each customer with smart,
+accurate, and helpful information and advice.
+Building the AI engine he hoped for would have to be fast—and intense.
+“It was a big, audacious project,” he says. He’d have to learn a lot.
+Brandon knew he would need a strong technical partner. He pulled aside
+one of his most gifted engineers, Joel Parrish, who was leading Android
+development at Stash. He outlined his plan, and Joel agreed to join him on
+it.
+Brandon hadn’t coded in a long time. But he knew Python, the general-
+purpose software program, well enough to work closely with Joel.
+“We started working around the clock,” Brandon says. “I started pulling
+in people, carefully and selectively.” He wanted a very small team.
+“Otherwise, our schedules would fill up with meetings.”
+One of the costliest and most time-consuming processes, whether in
+software or manufacturing, is retrofitting. It often requires tearing apart
+much of the work done. So without adding too many people to the small
+development team, Brandon wanted input from the different specialists. The
+most important was compliance. “These were going to be public
+communications in a highly regulated industry,” he says. “We had to be sure
+the model had guardrails.”
+He included the chief compliance officer, Kate Ring, in the small
+development team, the group he called “Ninjas.”
+The range of this AI investment coach had to be immense. It had to
+master the complexity of language and phrasing from users, many of whom
+only vaguely knew what they were talking about. Many of them would not
+know financial lingo or even be comfortable typing. The digital coach
+would have to converse in spoken colloquial English.
+It would also have to offer sound advice on a dizzying range of issues.
+After all, the saving and investment advice hinged on a host of personal and
+family matters. The advice for each person had to be custom fitted to their
+needs, circumstances, risk tolerance, and time horizon. Naturally, the advice
+also had to be smart, clearly communicated, respectful of the users’ privacy,
+and impeccable from a regulatory point of view. This required massive
+training of the system. “We had to boil the ocean,” Brandon says.
+Within a month, the Ninjas had a prototype. Built upon an open-source
+AI platform, it answered questions and offered advice, and it sounded
+surprisingly human. But there was still work to be done to train the machine
+in order to make it smarter, nimbler, and more focused. The team
+relentlessly kept targeting performance goals.
+The app launched in early 2025. Users took to it at once. And their
+interactions provided new mountains of training data. The improvement
+never stops, and the development continues. A team of seven works full-
+time on the app. The latest project is an AI focused entirely on compliance.
+Brandon, meanwhile, remains fully engaged: “In my entire career, I’ve
+never had so much fun.”
+In building the AI investment coach, the Stash team not only followed
+the urgency and accountability step of the Algorithm. They also expanded
+the product to the customers’ experience. And for Stash to provide the
+smartest financial service, they realized, the customers had to know more.
+Stash had to become an education company. And as the AI team gathers and
+processes the ever-growing trove of customer interactions with their app,
+the digital coach continues to grow smarter.
+Injecting urgency and accountability is the secret ingredient here. I
+believe it might be the most powerful ingredient of the Algorithm.
+In Stash’s case, the principle is urgency. This was on full display as
+Brandon returned to founder mode and led by example. Working with a
+small team, he rapidly developed a full-scale AI investing coach. He
+injected urgency, holding everyone accountable, including himself, for
+goals and deliverables every week.
+The Tesla example of Elon leading weekly sessions highlights the same
+two ingredients: urgency and accountability. Getting teams to present to the
+CEO pushes an entire organization toward its goals.
+GUIDANCE
+This one is simple. What is the biggest problem or challenge your company
+faces? What would fix it? Who in your company (or elsewhere) is best positioned
+to carry it out?
+Have a meeting and invite a small group of people, each of them involved in a
+way that makes a difference. Set an action plan and goal, and meet in a week for
+a progress report. You’re off and running.
+OceanofPDF.com

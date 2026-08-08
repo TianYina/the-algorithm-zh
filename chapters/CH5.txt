@@ -1,0 +1,420 @@
+M
+CHAPTER FIVE
+STEP 5
+Automate Last
+HAND-MANUFACTURING IN A TENT
+OST  OF  THE  Tesla stories I’m telling start out with us facing dire
+circumstances. That’s partly a reflection of the time. Elon’s relentless
+push for growth during 2014–2019 had us teetering financially as we
+stretched to the max every dollar we had on hand. The way we both saw it,
+the company had to grow, and grow fast, to survive. It was big bet after big
+bet.
+It’s in this type of charged circumstances that a lot of creativity happens.
+In survival mode, we’ll consider just about any option. Problem-solving,
+driven by desperation, is common to any type of company that’s pushing
+the bounds.
+That was the method to the madness of stretching capital. We could have
+raised enough to make the company comfortable. But as entrepreneurs, both
+of us had seen the entropy that’s created by having a big safety net of cash
+on the balance sheet. Energy dissipates. Companies get fatter and slower.
+We opted instead for the resource constraint common in early start-ups.
+In those companies, small teams with limited resources often accomplish
+great things—while fending off existential challenges. That became our
+norm.
+The existential challenge we faced in 2017 was in the Bay Area’s
+Fremont plant. We had cash to last us ninety days. But death was much
+closer than that. Our norm was to wait a maximum of seventy-two days
+before paying suppliers. We owed a lot. And assuming that we would pay
+on time, we had only eighteen days of cash (ninety days less seventy-two
+days). We were in deep trouble. The press was on it. Short sellers were
+trashing the stock on Twitter and cable TV.
+Things were not going to plan. Our strategy hinged on mass-producing a
+new affordable sedan. The Tesla Model 3 promised to lead us into the vast
+middle market, where we’d compete with the likes of Toyota Camrys and
+Volvos. This was our big bet for transformative growth. Tesla would
+advance as both a major mainstream car company and the global leader in
+EVs.
+However, the Model 3, the linchpin of the strategy, was lost in
+Production Hell. We were failing at our primary job, manufacturing
+automobiles. The gleaming new robots in our largely automated production
+line were failing us. Production at the Fremont plant was nil. Every day,
+default inched closer.
+The genesis of this critical problem came from Elon, and he’s the first to
+admit it. Years earlier, he saw the growing challenge from China. At least a
+dozen fully financed low-cost manufacturers were primed to push into the
+global EV marketplace. To compete, he believed, we had to drive our costs
+down by at least half.
+For this he masterminded an automated assembly line. It would be
+ultraefficient, spitting out cars by the thousand. It was the answer, he
+thought, to global competitors. We’d build a cutting-edge automated
+system. He called it the Alien Dreadnought—the “Machine That Produces
+the Machine.”
+A little more than a century earlier, Henry Ford had revolutionized
+manufacturing with his Model T assembly lines. Perhaps the Alien
+Dreadnought would be the twenty-first century’s equivalent, precision
+machines collaborating with each other and producing cars.
+There was only one problem: It wasn’t working. The robots crashed into
+each other. Model 3s fell off their trays. There were jam-ups, delays, quality
+issues. It was a disaster.
+At a time when we were desperate to produce fast and cut costs, we
+were paying overtime for an army of expensive repair specialists. And they
+still couldn’t coax the machines to work together and effectively produce
+cars. Even those that emerged from the assembly line were unfit to sell.
+Early on, we held out hope that it was just a learning-curve issue. Once
+the robotic elements of Alien Dreadnought were in tune, the system would
+make good on its promise. It didn’t happen.
+To make matters worse, the supply chain was shipping parts to the
+factory in anticipation of thousands of vehicles produced each week. Those
+parts were piling up outside of the factory, and the obligations to pay for
+them added to our woes. The clock kept ticking louder and louder. It felt
+relentless.
+Synchronization is one of the biggest challenges in automated assembly
+lines. Getting machines to work in concert requires coordination. It’s been
+an issue since the dawn of the Industrial Age. In Charlie Chaplin’s famous
+movie Modern Times (1936), Charlie can’t keep up with the speed of the
+assembly line and makes a comic mess of it. The eternal challenge is to
+create systems in which each station receives its component material just
+when it needs it, and passes it on precisely when the next station is
+expecting it.
+Endowing a complex system with this kind of harmony requires intimate
+knowledge of how the whole thing moves. How often does a welding robot
+need another door? What is the optimum delivery schedule for each robot in
+the line? Is each one capable of carrying out the work at that speed? If some
+robot down the line is slower, will the others slow down? Or will inventory
+pile up relentlessly at each chokepoint?
+If you picture human beings carrying out assembly-line work, like in the
+kitchen at Alinea, the key is communication. Each person is in tune with the
+other teammates. They learn the patterns, knowing when each one needs a
+component—whether a sculpted carrot or a fine sliver of foie gras. If there’s
+a hiccup on the chain, they talk and iron it out. That’s a feedback loop, a
+crucial element for a system to learn and adjust. Humans are experts at
+making such adjustments.
+Our robots lacked this coordination. Each one was capable of
+performing its job. That was its knowledge base. The robots applied their
+welds or hitched on doors, or one of hundreds of other tasks, and moved
+onto the next.
+However, they had minimal awareness regarding the rest of the Alien
+Dreadnought. The whole thing was like a team of superstar wannabes who
+can’t play well together.
+The faltering automatic machinery badly needed human intervention.
+We sent in an army of expensive technicians and engineers, hoping they
+could coax the machines into making cars. To no avail.
+At an emergency senior-management team meeting, we didn’t have to
+go around the table to define the problem we were facing. We had to start
+making cars.
+Jerome Guillen, our head of automotive product, came up with what
+sounded like a wild idea. He said that if we could build a long tent on our
+grounds, he would set up an entire assembly—one to be operated entirely
+by human beings.
+On one level, his idea was sound. Our machines couldn’t build the cars
+we so badly needed to sell. Humans, by contrast, were fully capable of it. In
+fact, for much of the first century of the automotive age, it was human
+autoworkers who handled the job. Facing this emergency, we had little
+choice but to dump Elon’s twenty-first-century vision, at least for a while,
+and supplant it with a dose of twentieth-century Fordism.
+By building the cars by hand, Jerome argued, we would learn the steps
+and intervals in the construction process. Only after we’d learned the ins
+and outs of the manufacturing system would we know enough to begin to
+optimize the process. Once we optimized, we could reincorporate machines,
+one by one.
+Jerome had a precedent for this idea. In 2010, when he was new at the
+company, Tesla created an “alpha workshop” inside the factory and hand-
+assembled a small batch of Model S cars. With knowledge gained from this
+experience, the company deployed the machinery more intelligently.
+Elon had opted to bypass this educational step for the Alien
+Dreadnought, and we face-planted on it. The focus now, however, wasn’t to
+question what we got wrong but to figure out how to start making cars. We
+were like the anxious passenger stuck in a gridlocked New York cab. At
+some point, you jump out and take off running.
+Within days, Jerome and his team had erected a long prefab building, a
+so-called sprung tent, on the grounds of the Fremont facility. The cars
+would make their way down the line, step by step. Workers would bring in
+parts as needed right off the truck trailers they arrived on, through the
+sidewall of the tent. “Concierge service,” we called it.
+The first cars came off the line slowly. There was a lot to learn. But
+Jerome and his team gathered data, including lots of firsthand observations,
+and they optimized. They saw that they could save time by delivering
+different parts to different stations, along different routes and timetables.
+There were always bottlenecks to address.
+With each adjustment, the system grew more efficient. Jerome and his
+assembly team in the tent eventually removed 50 percent of the steps in the
+production of the car.
+Our goal was to produce 1,500 Model 3s per week. In our first week of
+manual assembly, we made 75. Within six weeks, the system was ten times
+more efficient, and it produced 750. Our financial position, while still
+shaky, grew less dire.
+The near-death experience with the Alien Dreadnought reinforced what
+we knew but occasionally forgot: Don’t automate until you know exactly
+what you’re doing—every motion, every turn, the pathway of every
+component. With this knowledge, you optimize, shortening the routes that
+components have to travel, slicing seconds off jobs. Only when this
+flowchart is shorn to the simplest and most efficient form can we begin to
+think about inviting in a robot or two.
+This was important enough for Elon to place it as step 5 of the
+Algorithm: Automate last.
+Smart entrepreneurs have known this for a long time. When
+Amazon.com was in its infancy as an online bookseller, the operation ran
+entirely on human labor. As orders came in for books, one of the Amazon
+team members would run to a bookstore and buy them. Then they would
+package and mail the books, figuring out the most efficient way to carry out
+this job. What they learned eventually informed the automation that
+Amazon is now known for.
+DoorDash had a similar start. Rather than building an ordering system
+for multiple restaurants, it went manual instead. The three founders scanned
+menus from local restaurants within three miles of their dorm. They put
+those menus up on a website with a Google Voice phone number to order.
+As calls came in, they would fulfill orders by hand to learn the restaurant
+ordering and delivery process. Only after studying it and optimizing it did
+they begin to automate.
+In our case, hand-manufacturing in the tent not only saved the company;
+it also led to global growth. Once we had a reliable system at our
+manufacturing core, we could really speed it up, in Fremont and elsewhere.
+The pared-down process that Jerome and his team created served as the
+foundation for mega-factories in Tesla’s future, from Shanghai to Austin,
+Texas. And the idea of delivering parts directly from the truck trailer
+through the sidewall of the factory became the new model of modern
+automotive factory and supply-chain design.
+MAKING SENSE OF A CHAOTIC LOT
+Most of us have experienced that sinking feeling, often bordering on
+despair, when searching for a single car in an endless parking lot. Whether
+it’s at Mall of the Americas or Disney World, the cars seem to go on
+forever, row after row. Many of them look alike. Sure, the sections and rows
+are numbered and lettered, some even tagged with colors or fruits. But
+when you’re pulling kids out of car seats and answering questions and
+rechecking tickets and water bottles, it’s all too easy to forget to make a
+note, by photo or text, that you’re parked in Pineapple C–12. Hours later,
+trekking through Parking Lot Hell, you can find yourself envying the driver
+of the green Day-Glo minibus. At least it’s visible.
+In 2015 we were grappling with our own version of Parking Lot Hell.
+Thousands of Model Xs emerging from our Fremont facility stretched
+across vast acres of parking lot. These cars were in the stage called End of
+Line, Work in Progress (EOL-WIP). Many needed different quality tests.
+Some needed an adjustment or a fix, perhaps different carpeting or a
+headlight to satisfy a European standard. Others were ready to go—but not
+all to the same destination. Some would be heading south, others east. A
+ship in the Oakland harbor might be waiting to take a load of them across
+the Pacific.
+What was the status of each car in the lot, and where was it headed? The
+new cars had to go through a series of tests—water, voltage, noise,
+vibration, among others. Some were further along than others, but the
+information wasn’t visible. We were desperate to turn this inventory into
+revenue.
+A big part of the problem was that we had rushed into production of the
+Model X because we didn’t have the luxury of taking several months, or
+even a year, to test and fine-tune our manufacturing line. That was the
+industry standard. But we largely skipped this step for two reasons. First,
+we needed to sell cars in a hurry. Second, we trusted that we were a
+different breed of car company, one that could learn on the fly.
+What we learned were very painful lessons. We had serious quality
+issues. And those cars, with one problem or another to fix, were piling up
+by the hundreds, and eventually the thousands, in the vast parking lots
+outside the Fremont plant.
+We had people going through the lot, row by row, laboriously tagging
+for each status and destination. This was slow and cumbersome, and it cost
+money. As ships and trains waited for their cargo, we were picking out the
+cars one by one.
+We desperately needed organization. That much we knew. The
+immediate issue was much simpler: We lacked visibility. The cars all looked
+alike. We tried at first to address the issue with technology, from RFID
+chips to handheld computers. It didn’t help us see the problem. And there
+were all kinds of frustrations. The space was so immense that WiFi signals
+petered out.
+I assigned the job to Nikki Monterroso, who had previously optimized
+our pre-shipping and delivery process. She proposed creating a simple and
+colorful scheme for our thousands of cars. Only when we could see the
+various groupings, by model, specs, and destination, could we start to
+organize them. “It’s got to be as simple as Fisher-Price,” she said, referring
+to colorful educational toys.
+For an entire week, her team went up and down the rows of cars,
+classifying and marking them. They used paint pens on windshields and call
+signs to indicate where each car was heading and what it needed. They
+provided more detailed information on a sheet, which was placed on each
+car’s dashboard.
+Once this preliminary work was done, we were able to take aerial drone
+photos of the lot and scope out the size of each grouping. In a sense, they
+were like tribes. Each one needed its own territory, or staging ground. Some
+required much more space than others.
+Nikki and her team began to divide the lot into different parcels for each
+category and subcategory. The groups, they saw, were always in flux. The
+group missing the water test might be half as big in February as it was in
+March, and twice as big in April. So the team used markers they could
+move, like road cones. “As the inventory shifted,” Nikki recalls, “our
+process could adapt.”
+There was nothing high-tech about it. Logistics officers from World War
+II would recognize many of the elements. The advantages of this low-tech
+approach, much like the manual assembly of Model 3 (which would come a
+couple of years later), were flexibility and learning. Nikki and her team
+came across every variable in their system. They could experiment and
+adjust. Over two years, they optimized a system that they knew intimately.
+EOL-WIP was no longer a problem.
+However, with the massive growth in volume following the launch of
+Model 3, in 2017, we needed a digital upgrade. Creating software to
+manage EOL-WIP would have been a fiasco at the beginning of the
+process. But after two years, Nikki says, “We knew exactly what we needed
+to track, where we needed to track it, and all the important data points.”
+Automation, whether robots or software, is the final step of the
+Algorithm. And by 2017, our EOL-WIP system was ready for it.
+This is where Paul Fulwyler enters the story. Paul grew up on a cotton
+farm in California’s Central Valley. At the age of eighteen, he moved to Los
+Angeles and started his career with big hotels. With a focus on customer
+service, he learned to adjust to the quirks and moods of movie stars and
+regular folks alike. On his walk to work in the early 2010s, he would pass a
+Tesla store. He saw that their service departments had a role for
+“concierge.”
+“I figured, why not?” he says.
+He got a job. And he immediately saw how backward and random the
+service operation was: “They had no processes. People were booking
+appointments in Outlook. I said, ‘I can’t live this way!’ ”
+Paul has many of the same skills as GM’s Josh Tavel. They both think
+through processes, figuring out the timing of each step and precisely what
+information each person needs at that juncture. It’s a crucial blend of
+process and communication. It’s the way Paul thinks.
+He quickly developed procedures in the Santa Monica shop. Then he
+worked to bring all of the Los Angeles shops onto the same network, all of
+them with access to the same information, from time slots to available parts.
+In Los Angeles he developed an incentive system of points, with
+employees garnering more points when they handled big jobs. There was a
+scorecard, and people could see how they stacked up. “We competed with
+each other,” he says. “It had a draft effect.” One employee, when he learned
+about the competition, quadrupled his work from one week to the next. The
+prizes: $100 to the monthly winner, along with a weekend driving one of
+the Tesla loaner cars.
+Even later, as Paul climbed into senior engineering roles, overseeing big
+projects, he held onto the title of “concierge.” He was always solving
+somebody’s problem.
+In our case, it was to turn our Fisher-Price solution into software. Paul
+developed it. He didn’t release it for a while because he wanted it to be
+perfect. People at Tesla began to wonder if the software even existed. They
+began to call it the Unicorn Report.
+When it came out, the Unicorn dramatically sped up our end-of-line
+operations. With the online dashboard, we had real-time visibility. The cars
+were equipped with sensors, and Paul’s system provided up-to-the-minute
+data on how many cars were waiting at each station—thirty-two at the
+water test, eighteen in paint repair, and so on. It quickly spread to Tesla
+operations around the world. It worked beautifully—in large part because
+Nikki, Paul, and their team had first optimized everything by hand.
+CURBEE: TURNING A TESLA INNOVATION INTO A
+START-UP
+The mobile service we developed at Tesla was a big hit with our customers.
+With our house calls, they could get their car serviced without even
+changing out of their pajamas. It also cut costs for Tesla, taking heat off of
+building additional service centers. In many cases, it was simply a more
+efficient way to service cars. It was a winning idea.
+So naturally, when Karim Bousta and I launched the start-up incubator
+DVx in 2020, we decided to replicate the mobile service we’d developed at
+Tesla. The idea was to develop software enabling the eighteen thousand
+non-Tesla dealers in the country to offer this new service. The system would
+have to manage the routes, the fleets of repair vehicles, the scheduling, the
+billing, and the follow-up.
+We knew from the start that the work would not be a simple cut-and-
+paste job. Tesla was different. Unlike other automakers, Tesla owned the
+customer relationship. The cars were on a digital network. Tesla could
+inspect its far-flung fleet remotely and send software updates. The mobile
+service, as it developed, was an extension of the customer relationships we
+already had.
+Traditional dealers—whether Ford, GM, Toyota, or a host of others—
+operated on an entirely different business model. They’d paid millions of
+dollars for their store location, and their principal business was selling cars.
+Most of them had little idea where their customers went after they drove off
+the lot.
+Our goal was to create a mobile-repair operating system for traditional
+auto dealers. We would license to them. It would be a subscription software
+business. But to understand how to build this OS, we had to know what
+they needed and what they didn’t. We needed to understand every aspect of
+their business. And for that we would have to create one from the ground
+up. Only by building it would we learn the business.
+A couple of dealers in northern California let members of our team camp
+out in their repair shops for a couple of weeks. It wasn’t highly optimized,
+but they had routines that worked. Many of them were detailed in sticky
+notes on the walls.
+Studying their processes helped us understand the way they ran their
+shops—the pressures they faced, the resources they needed, the blend of the
+repairs that came in, and the percentage of them that could be handled with
+house calls.
+Still, we faced lots of unknowns. We didn’t know what a dealer’s
+potential market was because many of their one-time customers got their
+cars fixed elsewhere. The economics were also unclear. No one knew how
+much customers would pay for home service or how the dealers might
+adjust their business to this model. How much would they have to invest?
+Could they charge more than local mechanics for the added convenience?
+Would they need to expand or rejigger their workforce?
+There was a lot to learn. We decided to set up our own mobile-repair
+business that would function as our laboratory. In July of 2020, still amid
+the COVID-19 pandemic, we opened up a new mobile car-servicing
+company. We opened up our shop in Sunnyvale, in the heart of Silicon
+Valley. We would dispatch mobile-repair specialists in well-equipped vans.
+They would handle the 90 percent of repairs that don’t require lifting the car
+into the air.
+The potential for the market was huge. And we knew from our Tesla
+experience that the model worked. Customers loved it. But Tesla was
+different in crucial ways. It was wired into Tesla’s digital ecosystem from
+day one. In that sense, Tesla operated in much the same way as Apple. It
+hosted customers in a relatively closed garden.
+Our challenge was to create a service that would thrive in a much more
+random marketplace. The vast majority of dealers had more tenuous
+relations with the customers. They’d see them while the car was on
+warranty and then say goodbye until the next car—if the customer didn’t try
+another brand. Aside from dealers, the auto-repair market was (and is) led
+by a few national chains. But there are also loads of local auto-repair shops
+that do a brisk business.
+That was the marketplace we were heading into with our Silicon Valley
+mobile-repair start-up. Our partner Karim Bousta led this project from the
+start. His goal was to develop hands-on industry know-how and later
+encode it into software. This would work for all the dealerships in the
+country, regardless of brand or affiliation, enabling them to forge deeper
+and richer relations with customers and also to establish a new business:
+mobile repairs.
+Paul Fulwyler and Nikki Monterroso, who began working with me at
+DVx after Tesla, joined Karim early on. They both had lots of experience
+building systems to manage workflow.
+It was clear from the start that as far as technology went, our team was
+operating on virgin ground. There was no software package for running a
+mobile car-repair business—nothing like the powerhouses in other domains,
+from Turbotax to Adobe’s Photoshop. Many repair shops still managed their
+business by scribbling on ledgers and wall calendars.
+One way to approach this challenge would be to build a software
+program to detail the resources, the jobs, and the routes. However, we
+committed nothing to software because, as step 5 of the Algorithm makes
+clear, we had to learn, simplify, and optimize the system first. Automation,
+whether robots or software, had to come last.
+So we typed job bookings into Excel. We used Google Forms for
+technicians to report and annotate each job, and Google Maps for routes and
+schedules. We would take that manual data and format it into a PDF for the
+customer. In short, we ran the information side of our business like cash-
+poor entrepreneurs.
+As we learned the flow of the work, we tacked papers to the wall. When
+we found ways to improve the process, we shifted the papers around,
+removing steps we didn’t need and combining others. The goal was to get
+as many customers as possible on each trip. This manual stage took about
+seven months.
+By that point, our team had learned a lot. Soon they began the first steps
+toward creating a software program. They started with Zapier, a simple and
+flexible program that ties together different web applications. This added
+efficiency, and the program began taking shape. But it wasn’t yet time to
+create a finished product.
+It was only after two years of development that we’d learned enough to
+make the automation pivot—from a small repair company in Sunnyvale to a
+software-as-a-service start-up with global ambitions. Taking all of the
+learnings, from fleet management to billing, we created comprehensive
+management software for dealers to launch their own mobile-repair
+businesses. Our subscription service is called Curbee. It’s currently in five
+hundred dealerships, hopefully with thousands more to come.
+GUIDANCE
+The principle of automate last is counterintuitive. Smart people want to go fast to
+solutions, and fast often means coding software in parallel with building the
+architecture of the solution.
+I like to think of this like building a house. The architect is designing, but the
+contractor is hungry to build. So the contractor builds walls and foundations as
+soon as the architect draws them. But later, seeing the entire house and how it
+flows, the homeowner wants changes. However, the foundations are already
+poured, and the walls are built. Changes usually aren’t possible, and if they are,
+they are very expensive. All because the contractor built before the entire design
+was done.
+A business process is almost identical to this. If software is built before the
+entire system is simplified and optimized, then code is very difficult to change. In
+reality, there’s great human resistance to this, especially among the automaters
+(they hate to see their code wasted).
+This is avoidable. Hold the coders off until the end, until you’ve designed a
+new, simplified process, optimized it, and know exactly what you want. The coding
+will go much faster if you have the discipline to wait.
+OceanofPDF.com

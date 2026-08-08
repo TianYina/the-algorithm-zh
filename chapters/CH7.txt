@@ -1,0 +1,306 @@
+A
+CHAPTER SEVEN
+Expand the Definition of Your Product
+to the Customer’s Entire Experience
+QUICK  NOTE : You now have knowledge of the Algorithm. But there are
+three keys to actually making the approach of the Algorithm take hold
+in an organization. I refer to these as the “secret sauce” that you’d only
+recognize from being on the inside.
+This next section of the book will unpack three key ingredients to
+putting the Algorithm into practice. First, you’ve got to help your
+organization take the blinders off and look at the product and problem they
+are solving with the customers’ definition—not the organization’s
+definition. Next, the most senior leadership has to inject urgency in the form
+of personal involvement weekly (yes, weekly). You would not know it from
+the outside of an organization like Tesla, but I believe this is the single most
+important driver of the innovation you see at Tesla, SpaceX, and other
+Musk companies. Lastly, we’ll cover the ultimate humility pill—using your
+product daily just as the customer would. You won’t be able to live with the
+issues you’ll uncover. And that will drive rapid change.
+PLUNGING INTO INSURANCE
+If you focus on what’s unpleasant in a process, you’ll likely come face-to-
+face with an opportunity. It can be any bottleneck or pain point, any step
+that people wish they could skip. For me, pain is an indispensable idea
+generator. It was the starting point, as I’ve mentioned, for the Zumi service,
+which allows restaurant patrons to skip the payment process. Similarly,
+Tesla’s mobile repairs saved customers a time-consuming trip to the service
+center.
+At Tesla, hunting for our customers’ pain points was an ongoing
+exercise. Our search stretched far beyond the car itself and encompassed the
+entire customer experience. Ideally, every step of the way should be
+effortless or, in the best case, delightful. In our expanded view, the user
+experience extended far beyond the machines we sold. It started with
+shopping for a car, then buying and financing it, charging and servicing it,
+and eventually selling or trading it in. If we analyzed each step of that
+trajectory, we would no doubt find pain, or at least unpleasantness. Each
+instance of it represented an opportunity. Making that pain go away would
+enhance the customer experience while also lifting the brand.
+This idea of extending the view of the customer far beyond the physical
+machine was key to Tesla’s culture. Although it isn’t part of the Algorithm,
+whose five steps zero in on optimizing operations, it was central to the
+company’s success. We could make the greatest cars in the world, for
+example, but if customers struggled with the Bluetooth connections or
+found themselves at the end of a huge line at a charging station in South
+Dakota, they’d associate the brand with frustration.
+This expanded view of the customer holds true across industries. A
+company might have wonderful products, but if their website sends users in
+circles, or if assembly instructions or FAQs are in a tiny font, the experience
+suffers, and the brand takes a beating.
+Like many businesses—but very few car companies—Tesla had a
+marketing budget of $0. Our strategy hinged heavily on word of mouth,
+from the neighborhood and the office to social networks. The goal was to
+organically acquire tens of millions of customers and retain them for life. If
+they loved the entire Tesla experience, they would not only stick with the
+brand; they’d also become ambassadors for it.
+Equally important, the wider focus could lead to discovery: new
+business opportunities and rich streams of revenue.
+This was on my mind early during my time at Tesla. We were desperate
+for cash flow, which fluctuated wildly. Revenue in the car business is
+episodic. A customer who spent $80,000 for a car might not pay us another
+dollar for five years, or perhaps ever. What’s more, our auto sales were
+vulnerable to economic cycles. Although a recession might only dent our
+established competitors, our position was more precarious than most. If
+cash flow dipped, we could die.
+What we needed, I believed, were streams of recurring revenue that
+flowed in month by month, like a subscription service. One promising
+opportunity was in auto insurance. It clearly fell within the customer’s
+experience—and not a particularly pleasant part of it. Before customers
+could take off in their shiny new car, they had to shop for the right
+insurance policy, provide a bunch of data, and often pay more money than
+they expected. Many car buyers no doubt had a nagging concern that their
+premiums were higher than they should be. This is common because many
+people tend to believe—correctly or not—that they’re responsible drivers
+and that their insurance premiums underwrite hot-rodders, late-night
+partiers, and other irresponsible motorists. Buying insurance was the
+opposite of delightful—and that spelled opportunity.
+From Tesla’s perspective, insurance had the potential to deliver almost
+as much revenue every year (around $1,500) as the profit we made on
+selling the car once ($1,500–$2,000). Achieving a high attachment rate of
+insurance to the sale of the car would provide annual recurring revenue.
+That would change the economics of the industry.
+It wasn’t normal for an auto company in the United States to plunge into
+the insurance market. But expanding the customer view, by definition,
+carries companies away from their core market. It was hardly the first time
+for us. With our growing network of chargers, we were already an electric
+utility of sorts. With insurance, I figured, we’d branch into finance.
+I had experience with the industry. Before coming to Tesla, as I
+described in Chapter 2, I saw firsthand how valuable driver data was to
+insurers. My start-up, TrueMotion, used the sensors in smartphones to
+monitor driving behavior. The original goal was safety—specifically to
+discourage cell-phone distractions while driving. But behavioral data from
+the phones also proved valuable for calculating risk. For many decades,
+insurance companies had based their judgments on loose correlations, such
+as the person’s zip code or age. With behavioral data, they could go straight
+to the source, gathering streams of data on how each driver, minute by
+minute, was operating the vehicle. A core business for Cambridge
+Telematics, which bought TrueMotion in 2019, would be selling data to
+insurance companies.
+If the TrueMotion app delivered a valuable trickle of customer data,
+each Tesla produced a gusher. The cars were networked information devices
+on wheels, each one bristling with dozens of sensors. They recorded every
+fast turn, every slam on the brakes. With our data, it was easy to spot
+aggressive drivers, tailgaters, and speeders. In a sense, we tracked behavior
+in the physical world much the way that internet companies follow our
+clicks online.
+With this vast trove of driver data, we would be in a better position than
+traditional insurers to assess risk. We didn’t make guesses based on
+demographics; we followed individuals. Consequently, we could lift the
+safest drivers out of the crudely defined insurance pools they shared with
+tailgaters and speeders, and offer them much lower premiums.
+Looking at it from the customer’s view, it would be enticing. Did they
+want to hunt for separate insurance or just check this box and buy it with
+the car? We could start them off at fetchingly low rates and promise that
+their payments would be even lower if they drove responsibly.
+I was convinced this idea was a winner. When I proposed it to Elon, in
+his conference room at the Fremont plant, he gave it the immediate go-
+ahead.
+Diving into a new, heavily regulated industry, however, takes time. In
+the United States, each state has its own regulations and licensing. What’s
+more, we needed insurance companies as partners. They had the
+underwriting know-how. We would function more like brokers, bringing
+them a slew of new customers, each one with a data-determined risk profile.
+We thought our deal was a no-brainer for them. It turned out to be a
+harder sell than expected. In the view of insurers, a young company
+proposing a new way to calculate risk was, itself, a risk. Our idea also
+raised questions about privacy. It wasn’t a sure thing.
+We plowed ahead, hiring a small team of data scientists schooled in the
+insurance industry. They studied a host of risk factors and developed
+metrics for them. They calculated how many times per 1,000 miles each
+driver set off the forward-collision warning, and how many minutes each
+one drove late at night. They counted aggressive turns, the time spent
+driving faster than 85 miles per hour, even the percentage of each trip spent
+with the seatbelt unbuckled. They studied how much each driver used
+Autopilot. It enhanced safety when it was used correctly, with the driver’s
+hands on the wheel. Another metric, much simpler, was how much each car
+traveled per month. Each additional mile added risk.
+Our data scientists had their ideas, as most of us do, about what
+constituted unsafe driving. However, it took time to study the feedback
+loops and calculate how much each behavior correlated to risk. Through
+this process, they created the template for a safety score.
+The Tesla safety score functioned very much like credit scores, whether
+FICO or Experian. The credit-score agencies establish the risk variables—
+from late bill payments to high credit-card balances. They then share these
+metrics with customers. Some customers then take steps to raise their score
+and lower the cost of borrowing.
+Similarly, the Tesla drivers would be able to improve their safety score
+—and lower their monthly premium—by paying attention to the variables
+the Tesla team was measuring—speeding, tailgating, jackrabbit starts.
+It was in those years, the 2010s, that new markets were growing around
+data. With Fitbits and Apple Watches, millions were starting to monitor
+their workouts, their diet, their sleep. They could graph everything. The
+selling point was not just to provide the information but also to give
+consumers the knowledge they needed to optimize one aspect or another of
+their lives.
+Tesla insurance could work in a similar fashion—optimizing driving for
+safety. To be sure, not everyone enjoys this data-driven corner of the digital
+economy, but we felt that many of our drivers would fit the bill. A good
+number of them were coming to electric cars in part because they wanted
+fabulous fuel economy. Some had learned long ago to enhance their fuel
+mileage by avoiding sudden starts and coasting to red lights. Such people,
+we imagined, would enthusiastically jump into our new data app.
+Eventually they’d be bragging to friends about their sterling safety scores
+and low insurance premiums.
+While we grappled with the complexities of the US market, we quickly
+found insurance partners in Asia. We launched the service first in the spring
+of 2017 in China, Japan, and South Korea, offering appetizingly low rates.
+It was the simplest of processes. Customers didn’t need to fill out long
+forms. Their data were preloaded. They simply had to understand the
+concept—that their safety numbers, and premiums, would rise or fall as
+they drove. The new business took off with a zoom.
+The great thing about data-driven insurance is that the clientele, to a
+large degree, self-selects. People who pride themselves on careful driving
+are likely to sign up. Those aching to put the Tesla in Ludicrous Mode and
+feel neck-snapping speed are more likely to opt for an insurance policy that
+doesn’t scrutinize their movements too closely. As a result, we had large
+and growing pools of low-risk drivers. We could offer them ever-lower rates
+and still make money.
+It was a winning combination. By expanding our market to insurance,
+we removed an irksome stage from the car-buying process, and we also
+saved our customers money. At the same time, this provided a steady and
+growing stream of new cash.
+Building on our experience in Asia, we lined up two insurers in the US
+for launch, Progressive and Liberty Mutual. By the following year, the
+pieces were in place to launch Tesla insurance in twelve states, including
+California and Texas. The business took off. In an earnings call the year
+after the launch, Elon said that insurance accounted for one-third of Tesla’s
+cash flow.
+Like many of the other case studies, this one features various steps of
+the Algorithm. We started by questioning an age-old requirement—the
+separation of car sales and insurance. That led us to eliminate a particularly
+unpleasant step, and we did this by simplifying and optimizing the
+insurance service. In this case the optimization extended beyond the
+insurance service to the customer’s driving itself. The whole idea for this
+came from the principle of this chapter: Look at your product from your
+customer’s shoes. They can’t drive off the lot without insurance. Insurance
+is cumbersome. We could solve that problem for the customer and
+fundamentally change the economics of our business.
+We didn’t stop there. Infotainment also provided potential as a
+subscription. Our status quo was to offer three years of streaming with each
+new car and simply add those costs to the vehicle price. It was a one-time
+shot of nonrecurring income. By changing it to a subscription, we created a
+new stream of revenue. We did the same with autonomous driving. Perhaps
+our most creative move was taking Karim Bousta’s core idea and giving
+customers the ability to gain more range by unlocking battery capacity with
+a monthly subscription. Tesla was the first car company to do all this at
+scale. But all of these changes started with features that the customers
+loved, that were well-executed, and that customers were willing to pay for.
+Extending the focus to the entire customer journey not only improves
+the experience for customers. It also leads to innovation and can generate
+entirely new businesses. Following the foray into insurance, Tesla’s gross
+margin and cash generation exceeded those of its peers. Consequently, its
+stock was soon trading like a software company, with much higher price-to-
+earnings multiples than the rest of the auto industry and jumping from
+roughly $50 billion in market cap to nearly $1 trillion.
+Expanding the view of the customer is essential to winning. The
+competitor who best serves the customer (with the best economics)
+typically wins.
+GM’S FUN BOLT
+Disruptive thinking was central to Tesla’s culture. But new ideas and course
+changing can seem deeply threatening, or simply weird, when they aren’t
+ingrained in a company’s mindset and process. I expected and encountered
+this when joining the board of General Motors in 2022. When I pushed for
+an aggressive charging strategy, people looked at me as though I had three
+heads. “Fueling? That’s what Exxon and Mobil do. We manufacture cars…”
+True. Yet if competing automakers are finding new ways to connect with
+customers and are building new businesses to service them, they’re more
+likely to grow, leaving the others behind. Expanding the definition of the
+product to the customer’s experience doesn’t merely create growth
+opportunities. In some industries, it’s the path to survival.
+The challenges that GM faced are probably more similar to those that
+most businesses grapple with, compared to the Tesla case studies. Most
+companies, after all, don’t follow the Algorithm, at least not yet. But most
+businesses face transitions, whether adapting to growth, technological
+change, or new competitors. In these trying circumstances, the Algorithm
+can point the way.
+At a company as big as General Motors, some of the most dramatic
+changes develop as stand-alone initiatives. The high-speed effort to produce
+the Hummer EV (Chapter 5) was a significant win—and a clear signal to
+the rest of the massive company that new ideas are not only welcome but
+can also get the funding and the support they deserve.
+Around the time the Hummer EV rolled off the line, GM was exploring
+possibilities for its next generation of electric car, the Bolt. Launched in
+2016, the Bolt was GM’s learning laboratory for EVs. It involved building
+out a new supply chain and adopting different manufacturing processes.
+The original Bolt was a small and utilitarian EV. Yet it was crowned as
+MotorTrend’s car of the year in 2017, and in the following years it
+developed a large and devoted following. After it was withdrawn from the
+market in 2021 to deal with battery issues, customers themselves sent many
+ideas for the Bolt’s next iteration. They wanted more trunk space, a less
+plasticky feel on the door handles, and dozens of other tweaks.
+Traditionally at GM, most manufacturing adjustments focused on safety,
+economy, utility, or manufacturing simplicity. These were not bad priorities
+by any means. The key was to combine high quality with low cost. That
+combination had pleased customers through the decades, especially when
+combined with world-class design, like the tapered fins of the 1962 Cadillac
+Coupe Deville.
+But delving deeply into the customer experience involves more than cost
+and quality. It demands a focus on the driver’s and passengers’ experience
+in the car. It demands asking new questions, such as “Are the vehicles we
+produce fun?”
+This was an unusual question in the halls of General Motors. But it was
+on Mark Reuss’s mind in 2022. Reuss, the president of the company, had
+recently driven a Chinese car with an intriguing feature: a customizable
+dashboard. Using its connectors, people could snap on their own stuff,
+whether screens or mirrors or cupholders. The dashboard worked a bit like
+Legos. Customers could summon their creativity and personalize their
+dashboard. The feature, Reuss said, was the rage in China.
+The customizable dashboard was fun. And Mark was determined to add
+more fun to the Chevy Bolt. When the Bolt reemerged, it featured a longer
+range and other upgrades in construction and performance. In addition, it
+had fun elements, including the ability for owners to customize the interior
+of their car with accessories, including a customizable dashboard.
+GUIDANCE
+The overall principle of expanding your product view to include the customer use
+case is simple: Broaden the scope of the core product and ask about the much
+longer and wider customer journey. Expand your aperture and ask these
+questions: What is the customer doing in and around our product? And how can
+we enhance the entire experience—ideally by building new offerings and revenue
+streams?
+To widen the view, it can help to widen even the vocabulary of what you’re
+selling, often from a thing to a concept. For automotive industry, it’s the shift from
+the vehicle to the entire journey or, in a more utilitarian vein, transportation.
+But broadening the business to meet the customer’s needs involves more than
+simple word changes. The execs, the engineers, the product people—in short,
+everyone—need to join together to address what the customer wants or would
+like every time they touch your product or service.
+And very importantly, does this expanded view of the customer use case make
+the difference between winning and losing a market (like convenient charging
+networks for electric vehicles)? If it does, then pursue it as part of your product. If
+it doesn’t make or break adoption, then seriously consider whether you should
+pursue the broader product definition.
+Walmart has been doing this for decades. It developed a footprint for its stores
+that was wildly successful. They could have stopped there. But leaders at
+Walmart started to ask, “Besides general merchandise, what else are our
+customers purchasing weekly?”
+When they opened their aperture, expanding more into their customers’ lives,
+they saw groceries, pharmacy products, and gas as weekly purchases. They
+determined that they had every right to participate in those categories. And the
+experiments began: first grocery, then pharmacy, then gas. The result is that
+Walmart customers have one-stop shopping for their weekly needs. This
+expansion turned Walmart into one of the largest grocers, pharmacies, and gas
+retailers in the world.
+So what are your customers consuming in and around your product?
+Attack this question like a systems thinker. Lead your teams to think not just of
+the part of the process they define as their product but also of the whole system of
+putting the product to use. That is the customer’s view of the product.
+OceanofPDF.com

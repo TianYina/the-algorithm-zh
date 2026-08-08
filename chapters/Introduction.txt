@@ -1,0 +1,250 @@
+T
+INTRODUCTION
+HIS  IS  A  book about a set of principles and processes that can make any
+business, regardless of size or industry, grow exponentially. I first
+learned about them from Elon Musk during the three years (2015–2018) I
+was president of Tesla. But this is not a book about Elon. Nor is it a book
+about his political or social positions. I wrote this book to give you an
+inside glimpse into what makes Tesla and SpaceX so innovative. My hope
+is that leaders of companies big and small can apply these principles and
+create a new era of innovation and job creation. That is what this book is
+about.
+That said, Elon’s operational methods for simplifying, accelerating,
+removing steps, and questioning requirements—his Algorithm—not only
+fueled spectacular growth at Tesla but also laid out a valuable blueprint for
+growing companies and innovating in the twenty-first century. I have since
+used these principles with great success in my work with many other
+companies, including Lululemon and General Motors, where I currently sit
+on their respective boards. By the time you are done reading, you will be
+able to apply them to your own work.
+I  FIRST  MET  Elon Musk after being introduced by Sheryl Sandberg, who at
+the time was the chief operating officer at Facebook. Elon was looking hard
+for a president, and Sheryl told him she knew a guy. In our first assignment
+out of college, Sheryl’s late husband, Dave Goldberg, and I were young
+consultants optimizing operations at meatpacking plants in the Great Plains.
+It was a formative experience for both of us (working in a meatpacking
+plant was a surprising place to learn the Toyota Production System), and it
+led me onto an entrepreneurial path focused on making things work better.
+Sheryl set up my first meeting with Elon, and we hit it off immediately.
+I jump-started the conversation and asked Elon what he was looking for,
+and why now—what was the catalyst to seek out a number two? Oh, and
+why not a big company car guy? Tesla was ready to hit $2 billion in annual
+revenue.
+He immediately jumped on the big company car guy idea. “That’s
+exactly what I don’t need. I need a fellow entrepreneur.” He needed
+someone who knew how to disrupt because they’ve done it before.
+Someone who knew how to allocate capital. Someone who has been on the
+brink of running out of cash. Those people, he said, have judgment, are
+decisive, and move fast. “I’ll never find that in a big company car exec.”
+He had a point.
+Next, he dove right into a case study, asking me if I’d ever seen a
+problem like he was seeing on the manufacturing floor with the Model S.
+Skipping the small talk was fine, and this case interview was right up
+my alley. I asked him if there was a place in the process where the unused
+parts were piling up. This was a crucial marker in any manufacturing
+process, one that Dave and I had learned in our meatpacking days. If the
+Tesla team zeroed in on inventory backups, I told him, they’d probably find
+the root cause of the problem. That signal locates the problem. The next
+step is finding the root cause of the constraint. That requires painstaking
+work upstream to determine why the system is slowing at that very spot.
+As I asked more questions, I could tell he was zeroing in on a possible
+cause. I hadn’t been in his factory and couldn’t see what he had seen, but
+after an hour or so of back and forth, he had ideas on what was slowing the
+line. My goal was to show him the thinking process. It involved attacking a
+problem not with random fury but systematically.
+An hour or more flew by. I was having a blast, and it seemed he was,
+too. Within a few minutes of meeting, we were neck-deep in a problem
+together and working hard to pinpoint how to solve it. Once we got to a few
+options on what the root cause might be, he thanked me and said he wanted
+to go to the line to test out our thesis.
+A few weeks later, Elon called me. His team had followed my advice
+and fixed the glitches in the Model S line. He wondered if I could come
+down to his office at SpaceX, in Los Angeles, and discuss other issues he
+was facing at Tesla.
+Sheryl had advised me not to hesitate if he asked me to visit, so I said
+yes, I’d see him in a few days. No way I was going to miss a trip to a rocket
+factory.
+Soon, I was pulling into a parking space at SpaceX in Hawthorne with
+my name on it. Elon’s assistant met me at the door. Emma Gallagher had
+prepped me to bring a passport (entry to SpaceX is limited, and security is
+tight due to government restrictions). After the security clearance, Emma
+took me to a coffee station right on the edge of the factory floor. I was in
+nerd heaven watching a rocket engine part being CNC’d right in front of me
+from a massive block of titanium.
+From there, Emma took me to Elon’s desk, another huge slab of titanium
+(one of the coolest desks I’ve seen), introduced us, and we dove right in
+again.
+He told me about his most pressing problem. It had to do with sales. At
+that point in 2015, even as it was producing great cars, Tesla was in a
+precarious position. Investor confidence was crucial, and sales for the
+current quarter weren’t even close to what the company had promised Wall
+Street. He needed to fix the problem in a hurry.
+I was in the process of selling my latest start-up and had some free time.
+I told Elon I’d be happy to drill down on the sales issue. So, en route from
+Los Angeles to Boston, I stopped at Chicago’s O’Hare Airport and met his
+head of sales operations, Zean Nielsen.
+In a conference room at O’Hare, Zean outlined the sales process on a
+whiteboard. The central element, he said, was the test-drive. Most of the
+people coming into the store had never driven an electric car before, much
+less a Tesla. When they hit the accelerator, the car took off like a rocket.
+They loved the feel and the experience. A good number of customers went
+into the office right after their test-drive and bought a car. Others left their
+details, and the sales team followed up. The cars practically sold
+themselves, except for the stubborn fact that not nearly enough of them
+were doing it.
+To figure out what was amiss in the sales process, I had to go through it
+myself. Much like walking the factory floor to look for where inventory
+was piling up, I needed to walk the sales floor. Over the following week, I
+went to eight Tesla stores and took test-drives. I gave each store a different
+email address so that I wouldn’t be flagged as a test-driving weirdo. Then I
+waited for follow-ups. None came.
+This was a problem, but also an opportunity. I asked Zean to dig through
+the customer data and find out how many others were like the eight versions
+of me—potential customers who had taken test-drives but received no
+follow-up. It turned out there were five thousand of them. The root of this
+problem, it seemed, had to do with incentives. Tesla’s salespeople were
+rewarded for leads, bringing customers in for those magical test-drives. But
+they got no commission on sales, so there was little impetus to follow up.
+I asked Zean if we could halt all test-drives until those five thousand
+potential customers got a callback. He made it happen that day. Within
+days, sales spiked. With cars jumping off the lots, Tesla was back on track
+to make its quarterly numbers.
+I was elated—and then it struck me: I didn’t even work for the company,
+and I’d made a major decision without first discussing it with the CEO. I
+called Elon, recounted the whole story, and apologized for vastly
+overstepping my authority. “I’ve been a CEO for twenty years and I forgot
+that I wasn’t the CEO in this situation,” I told him. “My bad.”
+He was silent. This is something Elon does, and it’s unnerving. But I
+didn’t know him yet and wasn’t sure how to interpret the silence. I’d say a
+full minute went by, which felt like an eternity. Then he laughed and said,
+“You know, I think you’re going to fit in just fine here.” Within weeks, I
+was president of Tesla, running operations under Elon.
+Prior to Tesla, I had founded and sold six different start-ups. I had two
+decades of experience in innovation, efficiency management and
+optimization, and applying lean principles in my own companies. I saw
+each inefficiency as an opportunity to innovate. After a neighbor backed
+into my wife’s car, for example, I learned firsthand about the painfully long
+repair times at auto-body shops. This led me to launch a more efficient and
+customer-focused model. The lean formula worked, and we quickly
+expanded Sterling Collision Repair to seventy shops and hundreds of
+millions of dollars in revenue nationwide before selling the company to
+Allstate Insurance Company.
+When I started at Tesla, I assumed that Elon and I looked at work
+processes from much the same perspective. This was true, but only to a
+degree. The company had gone from a start-up to a large manufacturer
+without really defining how to solve problems and scale. Instead, incredible
+talent and creativity in the moment drove many breakthroughs. But as Tesla
+grew, the whole team began to define an entire operating system that
+emphasized speed and simplicity. The objective: exponential growth. Elon
+called this formula “the Algorithm.”
+The Algorithm worked. The following thirty months were a period of
+hypergrowth for Tesla and intense learning for me. During that time, we
+broadened our market by launching the falcon-wing Model X, followed by
+the more affordable Model 3. We dramatically expanded battery production,
+going from zero to world leadership. We built Gigafactory Shanghai, the
+first fully foreign-owned car factory in China, and grew revenue by a factor
+of ten, from $2 billion to $20 billion. Despite all that success, I had to leave
+Tesla.
+When Walter Isaacson was working on his best-selling biography Elon
+Musk, he interviewed me at length. I told him about the painful
+conversations I’d had with Elon about his mental-health struggles, how
+sometimes he wouldn’t, or couldn’t, get to his feet. One time, in a story
+Isaacson included in his book, I had to lie down on the floor with Elon to
+get his approval for a web-page design.
+These issues made my life a lot less pleasant, and the amazing highs of
+working with Elon—there were many—gave way to lows. One night my
+wife told me that the job was changing my personality and that I was
+coming home angry. So, in 2018, I left. I took everything I’d learned at
+Tesla, including the Algorithm, to a host of other ventures.
+Later, when Isaacson’s biography came out, I did a couple of events with
+him. At one, I had the chance to be the interviewer. I asked him about his
+coverage of the Algorithm. He had included important parts of it, but
+largely in summary. Isaacson had been a CEO before, at Time Inc. and
+CNN. Didn’t he consider this to be valuable content?
+He agreed that it was. It didn’t fit into a biography, he said, but instead
+deserved its own book—and suggested that I write it.
+If you’ve read books or business journalism about Tesla or SpaceX,
+you’ve no doubt come across references to the Algorithm and a few of its
+features. Speed is essential. Rules are to be questioned and, occasionally,
+broken. The Algorithm, you might think, works only for Elon Musk. He’s
+the exception, a genius entrepreneur virtually untethered by the forces and
+rules that the rest of us bow to on Earth. He’s the guy, after all, whose
+burning goal is to send humans to Mars.
+My objective in writing this book is to introduce the Algorithm as a set
+of principles and practices that can work for any business, regardless of size
+or industry. These are invaluable tools—essential ones—for thriving in the
+coming decades. The Algorithm was designed to supercharge speed,
+efficiency, innovation, and growth. How many businesses don’t want, or
+need, a strong boost in those four areas? And how many can survive if their
+competitors adopt these lessons and dominate their market?
+That’s why I’m including case studies from both inside and outside
+Tesla. I’ll detail each component of the Algorithm with case studies from
+my years working with Elon, but I’ll also include examples from other
+types of businesses—from restaurant kitchens to software start-ups. For
+leaders running these operations, the elements of the Algorithm are hardly
+rocket science. They’re simply smarter ways to get things done.
+Although Elon Musk is a central figure in this book, both as a
+charismatic leader and the architect of the Algorithm, many of the
+breakthrough ideas in these pages come from others: engineers, technicians,
+and physicists. This is an important point: It debunks the common notion
+that Tesla and SpaceX are unlike “normal” companies because they’re run
+by an eccentric founder with stratospheric goals. Much of the genius in
+Musk’s companies comes from the legions of smart people empowered by
+the Algorithm. They’re chasing stretch goals with free license to question
+everything and innovate boldly. No enterprise needs Elon Musk for that.
+You’ll no doubt recognize aspects of the social media and political Elon
+in these stories. He has an outsize personality, with unbounded confidence
+and extraordinary vision—along with glaring blind spots. But the focus of
+this book is on what he can teach us about running and growing companies.
+In Part I of the book, we tackle each of the five steps of the Algorithm:
+1. Question every requirement.
+2. Delete every possible step in a process.
+3. Simplify and optimize.
+4. Accelerate cycle time.
+5. Automate last.
+The stories illustrating these points will take us from the factory floor at
+Tesla to the kitchen of Alinea, the Michelin three-star restaurant in Chicago.
+Embedded in many of these examples is the relentless drive to ask a
+question: Why is this necessary? It could be a rule, a custom, or something
+long accepted as axiomatic. But the questioning often leads to efficiency
+gains, and occasionally to dramatic breakthroughs.
+Occasionally, delving into the why leads not just to improvements and
+efficiencies but also to entirely new approaches, even new businesses. We
+finish Part I with a chapter on examples of this radical rethinking, one from
+Tesla and one from my start-up incubator, DVx Ventures. Each of these
+examples features nearly every step of the Algorithm. In both cases they
+lead to new formulations and possibilities.
+We’ll move on in Part II to three cultural practices at Tesla that
+supplement the Algorithm:
+1. Expanding the definition of the product to encompass the customer’s
+entire experience. In Tesla’s case, part of the product is the charging
+infrastructure, because without it the customer is miserable.
+2. Urgency and accountability to the CEO in solving key problems. The
+example at Tesla is what we called the “weekly cadence.” Every
+Tuesday, Elon would be expecting engineers to give him detailed
+progress reports on the two or three most pressing problems.
+3. Eating your own dog food. (I might never have gotten my job at Tesla
+if Elon had bothered to take Teslas for test-drives and monitor the
+follow-up messages, or lack thereof.)
+The Algorithm features a set of best practices, yet one overarching idea
+infuses them all: Question the status quo. The more entrenched the norms,
+the greater the chances that people haven’t questioned the assumptions
+behind them for a long time. This is where the question “Why?” becomes
+important. If you go through a complex process and ask for the reason or
+justification for each of the dozens or hundreds of steps, many times the
+answer will be “That’s the way we’ve always done it.” Sometimes it turns
+out to make good sense. But not always, not by a long shot. The simple
+questioning of the status quo is fundamental both to the Algorithm and to
+business improvement and discovery.
+The framework’s value extends beyond optimizing business processes,
+achieving exponential growth, and boosting profits—all highly desirable
+outcomes. It has the potential to unleash a torrent of innovation and
+efficiency throughout our entire economy. It could help us build housing,
+develop medicines, and grow the food we need faster and cleaner. Elon’s
+ambitions may be interplanetary, but his Algorithm can work wonders for
+life on Earth. It is with this hope that I’m writing this book—with thanks to
+Elon and Walter for the inspiration.
+OceanofPDF.com
+PART I
+Principles of the Algorithm
+OceanofPDF.com

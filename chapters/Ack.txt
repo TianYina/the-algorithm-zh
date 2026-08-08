@@ -1,0 +1,626 @@
+Acknowledgments
+Elon Musk took a bet on me and many others. Working with and for him
+pulled more out of me than I knew was there. I’m grateful for that
+experience.
+I’m also grateful to all the people who gave interviews and contributed
+to the real world, real people examples of applying the Algorithm, including
+and especially my partners now at DVx, who were the core strength of our
+management team at Tesla: Karim Bousta, Ganesh Srivats, Nikki
+Monterroso, and Michael Rossiter. Their fingerprints are all over the
+examples and content of this book, and I get to wake up everyday and do
+the work of my life alongside of them.
+Fred Musone mentored me and taught me many of the principles that are
+the bedrock of the Algorithm. Fred led thousands across dozens of factories,
+then was lucky enough to learn these principles in Japan. He then taught me
+and many others, giving us skills to see things in a way that many aren’t
+able to. That’s an unfair advantage, and Fred planted that in me with patient
+coaching and teaching. His mantra is “great leaders are also great teachers.”
+Fred personifies that. And I want to be like Fred.
+Stephen Baker, my coauthor of this book, helped me rediscover how
+much joy I get out of writing. He patiently taught me his craft and his
+discipline (pros always make the difficult look easy, and that is certainly
+true of Steve). Jim Levine provided insights and edits, but most important,
+the encouragement to write this. He wanted the world to read this book, and
+that kept me at the keyboard on many days when I thought I didn’t have the
+juice to keep writing.
+The team at Penguin Random House, led by Adrian Zackheim, got
+behind this project from the very beginning, bringing great talent on board,
+including Anu Roy-Chaudhury as editor. Anu made Steve and I better each
+step of the way with her challenges to do more for the reader. It was
+Adrian’s conviction in this book that made our publishing partner decision
+easy.
+Ashley Langlais is more than my chief of staff; she is a brilliant and
+skilled operator. Often, great talent doesn’t know how good they are, and
+Ashley is certainly in that category. Ashley became a skilled book editor
+during this project and organized our work so that I could do my day job(s)
+and still get this book completed. She made Steve and me a much more
+effective team.
+My family is the inspiration of my life. They encouraged me to join
+Tesla, and they were the first to help me see that it was time to leave. In
+between, they cheered me on. Connor and Hannah, you are both flying on
+your own now, and I am so proud of who you are as people. Both of you
+combine talent and kindness in a way that makes the people around you
+better. And to my dear wife, Heidi, who is the rock of our family. The single
+best decision I made in life was leaping at the chance to marry you.
+Everything since has flowed from that single decision.
+Thank you all. I’m grateful.
+OceanofPDF.com
+Index
+The page numbers in this index refer to the printed version of the book.
+Each link will take you to the beginning of the corresponding print page.
+You may need to scroll forward from that location to find the corresponding
+reference on your e-reader.
+A B C D E F G H I J K L M N O P Q R S T U V W X
+Y Z
+A
+accountability. See urgency and accountability
+Achatz, Grant, 67, 69, 88
+advertising, 56
+Airbus, 3
+Alibaba, 128–29
+Alien Dreadnought machine, 101–2, 104, 106
+Alinea, 67–71, 93
+Allstate Insurance Company, xvi
+Ally Bank, 38
+Amazon, 76, 107
+Anderson, Sterling, 34
+app development, 165–71, 173
+Apple, 6, 14–19, 117, 128–29, 143
+approvals process, 93, 97
+ARM, 130
+artificial intelligence (AI), 128–31, 164, 165–71, 185–86, 188
+aspirational goals, 56
+automation, 99–120
+and AI investing system, 168
+and element of the Algorithm, xx
+guidance for, 120
+and mobile repair service at Tesla, 114–19
+and Tesla’s autonomous driving efforts, 161
+and Tesla’s end-of-line operations, 108–14
+and Tesla’s manufacturing process, 99–108
+automobiles
+collision repair industry, xvi, 76–78
+and expanded view of product/customer, 136–46
+and insurance business, 17, 136–46
+manufacturing, 3–14, 79–85, 99–108, 156–63
+service and repairs, 121–27
+See also Tesla
+autonomous driving, 161–62
+Autopilot (Tesla feature), 142
+aviation industry, 7
+B
+banking, 20
+Barra, Mary, 86–90, 181
+Bay Area, 60
+Beijing Olympics (2022), 91–96
+Boggs, Brian, 41
+Bolt (Chevy EV), 146–49
+bottlenecks
+identifying opportunities through, 136
+and Lululemon’s Olympics contract, 94
+and rapid growth, 167
+and Tesla delivery process, 62
+and Tesla service and repairs, 124
+and Tesla’s manufacturing process, 9, 103, 154–55
+and Tesla’s training process, 57
+Bousta, Karim, 40–46, 114, 117–18, 126, 145
+brainstorming, 53
+budgeting, 164
+Burberry, 46
+Burgoyne, Celeste, 177–80
+C
+Cadillac Lyriq, 181
+Cambridge Telematics, 140
+capacity, 81
+capital requirements, 100
+cash flow, 66–67, 97
+casting process, 10–13
+Chaplin, Charlie, 102–3
+charging infrastructure, xxi, 127, 146, 150
+check cycle at restaurants, 46–49
+Chevrolet, 87, 90
+China, xvii, 3–8, 85, 101, 122, 143, 149
+choice overload, 34
+classification systems, 63–64
+Clinton, Hillary, 80
+CNBC, 128
+Coalition, 22
+communication, 103
+Communist Revolution (China), 6
+competition and competitive advantage
+and advantages of the Algorithm, 188
+and automobile model development, 147
+and cycle time of car model development, 91
+and expanded view of product/customer, 138, 146
+and familiarity with products, 175–76, 183
+and financial benefits of fast cycle times, 97
+and incentives at Tesla, 113
+and Lululemon’s Olympics contract, 96
+and Musk’s weekly cadence meetings, 158
+and optimizing cycle times, 79
+and origin of automobile industry, 186
+and origin of “the Algorithm,” xviii
+and Tesla’s manufacturing process, 5, 8, 13
+and Tesla’s Model 3, 100–101
+and Tesla’s service and repairs, 124
+complexity and complex systems
+and AI investing system, 169–70
+benefits of reducing, 122
+guidance on reducing, 49–50
+and Lululemon’s Olympics contract, 94
+and optimization at Alinea, 67–71
+and Tesla’s autonomous driving efforts, 162
+and Tesla’s delivery process, 63
+and Tesla’s digital sales, 35–36
+and Tesla’s insurance business, 143
+and Tesla’s manufacturing process, 8, 9, 80, 83, 85, 103
+and Tesla’s training process, 52–53
+compliance issues, 171. See also law and legal requirements
+concierge service, 112–14
+consumer behavior, 34
+Cordova, Brad, 16, 19
+Cork, 19–26
+corporate culture, 5–6, 44
+Corvette, 90
+Corvus, 22
+cottage industries, 78
+COVID-19 pandemic, 85, 88, 116
+“CrabWalk” mode, 89
+credit card companies, 20
+culture of companies
+and customer service at Tesla, 127, 176
+and element of the Algorithm, xx
+and expanded view of product/customer, 137, 146
+and familiarity with products, 184
+at Lululemon’s cycle times, 92
+and manufacturing in China, 5–6
+and Musk’s weekly cadence meetings, 155, 163
+and Tesla’s manufacturing process, 13
+and Tesla’s risk tolerance, 45
+and Tesla’s training process, 53
+Curbee, 119
+customer data, xiv–xv, 175
+customer experience and behavior, 30–39, 173–83
+customer service
+and bottlenecks from rapid growth, 167
+and mobile repair service company, 114–19
+and Tesla’s growing pains, 122
+and Tesla’s training process, 54–57
+cyber-attack insurance, 20–26
+cycle time, 75–97
+benefits of, 75–78
+and collision repair industry, 76–78
+and element of the Algorithm, xx
+and GM’s electric Hummer, 85–91
+and Lululemon’s Olympics contract, 91–96
+and payless dining venture, 47–49
+and service process at Alinea, 70–71
+and Tesla’s delivery process, 66–67
+and Tesla’s manufacturing process, 79–85
+D
+data centers, 130
+data collection, 138–46
+debit cards, 167
+deleting steps, 29–50
+and advantages of the Algorithm, 186–87
+and element of the Algorithm, xx
+financial benefits of fast cycle times, 97
+guidance on, 131
+and Lululemon’s Olympics contract, 93
+and production of GM’s electric Hummer, 89
+and reducing complexity of operations, 49–50
+and Tesla’s end-of-line operations, 109
+and Tesla’s insurance business, 136–37, 145
+and Tesla’s manufacturing process, 105–6
+and Tesla’s purchase process, 30–39
+and Tesla’s service and repairs, 126–27
+and Zumi, 46–49
+delivery procedures at Tesla, 59–67, 72
+demand growth, 60, 84
+democratization of company culture, 163
+demographic data, 140
+design process, 94–95. See also product development
+DiDi, 48
+differentiated business models, 185–88
+digital networks, 115, 117
+digital sales, 30–39, 84
+dining clubs, 46–47
+distribution, 66, 95–96
+Donnelly, Bill, 38
+DoorDash, 107
+driving behavior, 139–40
+Durant, William C., 187
+DVx Ventures
+and business supercycles, 129
+and cadence for start-ups, 163–65
+and cyber insurance business, 22–26
+and element of the Algorithm, xx
+mobile repair service company, 114–19
+and payless dining venture, 46–49
+Tesla staff at, 118
+E
+e-commerce, 30. See also digital sales
+economic cycles, 138
+EdgeTrade, 166
+education, 105–6
+efficiency, xviii, xx, 106–7. See also deleting steps; optimization; 
+simplification
+electric starters, 186
+Elon Musk (Isaacson), xvi–xvii
+empowerment, xix. See also culture of companies; urgency and
+accountability
+End of Line, Work in Progress (EOL-WIP) at Tesla, 108–14
+environmentalist market for Tesla, 32
+Escalade SUV, 181–82
+exchange-traded funds (ETFs), 128–31
+Experian, 39
+expertise, 64–65
+exponential growth, xvi–xvii
+Extract Mode, 88
+F
+F-10 forms, 129
+fabric production, 94–95, 97
+Facebook, x
+feedback, 64, 103, 175–83
+Ferriss, Tim, 153
+Fetherstonhaugh, David, 22, 129
+Field, Doug, 7–8, 10–13, 35–36, 162
+financial apps, 165–71
+financial pressures, 29
+Fitbits, 143
+five-year plans (China), 6
+flat casting, 11–12
+Ford, Henry, 101
+Ford Motor Company, 6, 105, 115, 185–86
+The 4-Hour Workweek (Ferriss), 153
+French Laundry, 67
+Fulwyler, Paul, 112–14, 118
+G
+General Motors
+and author’s background, x
+Bolt launch, 146–49
+and dealer-centric service, 115
+and employee familiarity with products, 181
+and manufacturing in China, 3, 6
+production of electric Hummer, 85–91
+Gigafactory Shanghai, xvi, 7, 12
+The Goal (Goldratt), 9, 123
+Goldberg, Dave, x–xi, 8
+Goldratt, Eli, 9–10
+Goodrich, Jeff, 82
+Google, 128–29
+Gorilla Glass, 130
+GPS technology, 15
+growth
+and bottlenecks, 167
+and element of the Algorithm, xviii
+and optimizing cycle times, 75
+and Tesla’s end-of-line operations, 112
+and Tesla’s manufacturing process, 99
+and Tesla’s service challenges, 121–25
+Guillen, Jerome, 104–6, 108
+H
+“halo” products, 90, 95
+Harvard University, 16
+heuristics, 127–28
+hiring practices, 55
+Holzhausen, Franz von, 162, 176
+Hummer (electric model), 85–91
+Hummer EV, 147
+Hurricane Irma, 39–45
+hypergrowth, xvi–xvii
+I
+iLab, 16
+incentives, 113
+industrial processes, 70
+information management, 51–52, 80–85
+infotainment, 145
+innovation
+and automobile body manufacturing, 8–14
+and element of the Algorithm, xviii
+and production of GM’s electric Hummer, 88
+and Tesla’s purchase process, 30–39
+and Tesla’s training process, 54, 59
+insurance, 17–18, 20–26, 77, 136–46
+inventory bottlenecks, 9. See also End of Line, Work in Progress (EOL-
+WIP) at Tesla
+iPhones, 14, 130
+Isaacson, Walter, xvii–xviii, xxii
+J
+Jobs, Steve, 154
+K
+Kahneman, Daniel, 127–28
+Krieg, Brandon, 165–71
+L
+law and legal requirements, 37, 44, 141
+lean manufacturing, xvi, 78–79, 94, 123
+lemons (returned cars), 125
+lending practices, 37–39
+Liberty Mutual Insurance, 144
+liquid cooling systems, 130
+logistics, 111
+Lululemon, x, 20–22, 26, 91–96, 177–78
+Lyft, 20–22, 48
+Lyriq (Cadillac EV), 181
+M
+Macquarie Securities, 166
+managed service providers (MSPs), 24
+manufacturing/production process, xi–xii, 3–14, 34–36, 79–85
+mapping processes, 17, 70, 71–72, 129
+market research, 116, 154
+McDonald, Calvin, 180
+meatpacking business, 8
+medium-size businesses, 24
+Microsoft, 3, 129
+mobile repair service, 114–19
+Model 3 (Tesla), xvi, 7, 83, 100, 111, 154–55
+Model S (Tesla), xi–xii, 42, 105, 121
+Model T (Ford), 101, 186
+Model X (Tesla), 29, 34, 57–58, 108–9, 121, 157, 162, 177
+modernization, 86
+Modern Times (film), 102–3
+Monterroso, Nikki, 60–66, 72, 110–12, 114, 118
+Motor Trend, 148
+movement efficiency, 70. See also deleting steps; optimization
+Musk, Elon
+and author’s background, ix–xiii, xvi
+and customers’ car-buying experience, 176
+and origin of “the Algorithm,” xvi–xxi
+personal traits, xvii–xix
+and product quality, xxi
+and Srivats’s background, 46
+and Tesla’s insurance business, 141
+and Tesla’s manufacturing process, xi, xiv–xv, 99, 107
+and Tesla’s purchase process, 36
+and weekly cadence meetings, xxi, 153–60, 161–63, 164, 171
+N
+Netflix, 128–29
+The New York Times, 95
+Nielsen, Zean, xiii–xv, 39
+“Ninjas” development team, 169–70
+Nucor, 11–12
+O
+Olympic Games, 91–96
+onboarding process, 55
+one-click loans, 38
+on-the-job training, 57
+optimization
+at Alinea, 67–71
+and automation process, 120
+and cyber insurance, 19–26
+and DVx’s vetting process, 164
+and element of the Algorithm, xx
+and expanded view of product/customer, 137
+guidance for achieving, 71–73, 96–97
+and Lululemon’s Olympics contract, 92–93
+and mobile repair service at Tesla, 116
+and optimizing cycle times, 76
+and production of GM’s electric Hummer, 89
+and steps of the Algorithm, 118
+and Tesla’s delivery process, 59–67
+and Tesla’s digital sales, 32
+and Tesla’s end-of-line operations, 110–11, 114
+and Tesla’s insurance business, 143, 145
+and Tesla’s manufacturing process, 103, 105–8
+and Tesla’s training process, 51–59
+and young vs. old companies, 86
+See also cycle time; deleting steps; simplification
+P
+Padmanabhan, Swati, 82
+pain points, 136–37, 174
+The Paradox of Choice (Schwartz), 34
+Paralympic Games (Beijing, 2022), 91–96
+Parks, Doug, 181
+Parrish, Joel, 169
+payment processing, 46–49
+performance market for Tesla, 31–32
+Perot, Ross, 86
+personal finance apps, 165–71
+Pratt, David, 16, 17–18
+privacy issues, 141
+problem-solving skills, 56
+Proctor and Gamble, 6
+product definition, xxi, 135–51, 154
+product development, 85–91
+product quality, 154–61, 173–83
+Progressive Insurance, 17–18, 144
+prototypes, 170, 180
+public relations, 43–44
+Python coding language, 169
+Q
+Qualcomm, 130
+quality control, 61, 65, 108–14
+questioning norms and requirements
+and Achatz, 69
+and advantages of the Algorithm, 188
+and automobile model development, 148
+and cyber insurance, 19–23
+and element of the Algorithm, xx–xxi, 131
+and familiarity with products, 182–83
+impossible vs. unsolved problems, 14–19
+and Lululemon’s Olympics contract, 93
+and manufacturing in China, 4
+and optimizing cycle times, 76
+and origin of automobile industry, 186
+and production of GM’s electric Hummer, 88–89
+and Tesla’s digital sales, 29–39
+and Tesla’s insurance business, 145
+and Tesla’s manufacturing process, 3–14
+and Tesla’s service and repairs, 126
+and young vs. old companies, 86
+R
+radio frequency identification (RFID), 15, 110
+ransomware, 24. See also cyber-attack insurance
+region hub system, 66
+Reicheld, Greg, 35, 36
+Ren, Robin, 5–6
+repeatability, 70–71, 72
+resource constraints, 100
+restaurant industry, 46–49, 67–71, 93
+Reuss, Mark, 148–49
+revenues
+and bottlenecks from rapid growth, 167
+and business supercycles, 129
+and collision repair industry, 76
+and cyber insurance business, 21
+and expanded view of product/customer, 149
+and manufacturing in China, 5
+and payless dining venture, 48
+and product quality, 154
+and service process at Alinea, 71
+and Tesla’s digital sales, 25
+and Tesla’s end-of-line operations, 109
+and Tesla’s insurance business, 138–39, 145
+and Tesla’s manufacturing process, 159
+and Tesla’s service challenges, 121
+Ring, Kate, 169
+risk and risk assessment
+and cyber insurance business, 23–25
+and one-click loans, 38
+and Tesla’s battery upgrades, 44–45
+and Tesla’s insurance business, 140–42, 144
+Roberts, Brian, 21
+Robinson, Ed, 166
+robots
+and business supercycles, 128
+and guidance on reducing complexity, 49
+and Tesla’s end-of-line operations, 112
+and Tesla’s manufacturing process, 8, 11, 13, 101–4, 107, 160, 161
+Rossiter, Michael, 22, 31, 32
+rule-breaking, xviii, 93. See also questioning norms and requirements
+rules of thumb, 127–28
+S
+safety market for Tesla, 31
+sales, xiii–xv, 54, 183, 186. See also digital sales; revenues
+sales and operational planning (S&OP), 79–80
+Sandberg, Sheryl, x
+scaling issues, xvi, 18, 60–62, 64, 81, 83, 145, 187
+Schwartz, Barry, 34
+shipping times, 81
+simplification, 51–72
+and element of the Algorithm, xx
+guidance, 71–73
+and service process at Alinea, 67–71
+and Tesla’s delivery process, 59–67
+and Tesla’s insurance business, 145
+and Tesla’s manufacturing process, 9–10
+and Tesla’s training process, 51–59
+and Zumi, 46–49
+See also deleting steps
+small businesses, 24
+smartphone apps, 18
+SMS Group, 12
+social media, xix, 56, 84, 95, 100
+social networks, 63
+software companies and solutions
+and AI investing system, 169
+and automation process, 120
+and business supercycles, 130–31
+and cyber insurance, 23–25
+and element of the Algorithm, xix
+and employee feedback, 177
+and impossible vs. unsolved problems, 16
+and mobile repair service at Tesla, 115, 117–19
+and Tesla’s battery upgrades, 41–45
+and Tesla’s customer types, 31
+and Tesla’s end-of-line operations, 113–14
+and Tesla’s manufacturing process, 81
+and Tesla’s service and repairs, 125
+SpaceX, ix, xii–xvii, xix, 136, 176
+speed. See cycle time
+Squawk Box, 128
+Srivats, Ganesh, 31, 32, 41–42, 46–49
+staffing process, 66, 179
+standards, 63
+start-up ventures, xiii, 100, 163–65. See also DVx Ventures
+Stash, 165–71
+status market for Tesla, 32
+steel companies, 11–12
+Sterling Collision Repair, xvi, 122–23
+stock prices, 100, 146
+Straubel, JB, 162, 176
+Stripe, 20
+subscription services, 138, 145
+Suidan, Neal, 80–82, 84–85
+Sullivan, Chris, 123
+supercycles, 128–30
+supply-chains and networks
+and automobile model development, 148
+and business supercycles, 129–31
+and Lululemon’s Olympics contract, 92, 95
+and production of GM’s electric Hummer, 89
+and Tesla’s digital sales, 34–36
+and Tesla’s manufacturing process, 3, 12, 79–85, 102, 108
+synchronization, 102–3
+T
+Tao, Grace, 5–6
+target markets, 31
+tariffs, 84
+Tavel, Josh, 87–89, 113
+tech market for Tesla, 31
+technology upgrades, 40–45, 186
+Tesla
+“alpha workshop,” 105
+and author’s background, ix, xi–xvii, xxi
+battery life upgrades, 39–45, 145
+core customer types, 31–32
+customer experience at, 176
+delivery procedures, 59–67
+digital sales process, 29–39
+employee familiarity with products, 180–81
+end-of-line operations at, 108–14
+expanded view of product/customer, 136–46
+manufacturing problems at, 99–108
+and origin of the Algorithm, xvi, xviii–xix
+repairs and service centers, 114–19, 121–27
+representative training process, 51–59
+stock price, 44
+Vehicle Plan, 83–85
+Thinking, Fast and Slow (Kahneman), 127–28
+TikTok, 95
+Time Inc., xviii
+time management, 156. See also deleting steps; efficiency; optimization
+“touch time,” 77–78. See also cycle time
+Toyota, 79, 115
+train shipping, 66
+training data, 170
+training process, 51–59
+triage process, 124–25
+TrueMotion, 17–18, 22–23, 139–40
+20 percent rule, 180–82
+Twitter, 100
+U
+Uber, 48, 96
+Unicorn Report, 114
+urgency and accountability, 153–72
+and advantages of the Algorithm, 188
+cadence for start-ups, 163–65
+and element of the Algorithm, xxi
+Musk’s weekly cadence meetings, 153–63
+and Stash AI project, 165–71
+U.S. Bank, 38
+V
+Vehicle Plan (Tesla), 83–85
+velocity of cash, 66–67, 97. See also cash flow
+vetting start-ups, 163–65
+visibility and transparency, 81, 110
+VistaShares, 131
+Volkswagen, 3
+Volt (Chevy electric car), 87
+W
+Walmart, 150–51, 174
+Walton, Sam, 174
+website design, 32
+Wetherbee, Cameron, 65
+work flow, 119
+World War II, 111
+Y
+YouTube, 61
+Z
+Zapier, 119
+Zhu, Tom, 5–6, 7
+Zoom, 53
+Zumi, 46–49, 136
+A B C D E F G H I J K L M N O P Q R S T U V W X
+Y Z
+OceanofPDF.com

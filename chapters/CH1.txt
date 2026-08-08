@@ -1,0 +1,455 @@
+T
+CHAPTER ONE
+STEP 1
+Question Every Requirement
+O  BE  THE  world’s leading automaker, Tesla needed China, both to make
+cars and to sell them. This was no mystery. China was already the
+biggest auto market in the world. And with its powerful supply chains and
+skilled workers, we had no doubt that a Tesla factory in China would
+quickly become our most efficient auto plant. Strategically, a Chinese
+factory was essential.
+But there was one problem. The Chinese demanded equity participation
+in foreign-owned plants. Global manufacturers were eager enough for a
+foothold in the Chinese market that they readily accepted the condition.
+General Motors, Microsoft, Airbus, and Volkswagen, among many others,
+had joint ventures in China. If Tesla built a plant, it seemed that Elon would
+have to make room for a government-sanctioned partner.
+Elon didn’t want any part of it. He sent me to Beijing in 2015 with
+instructions to negotiate a 100 percent Tesla-owned manufacturing plant in
+China.
+He was following the first step of the Algorithm, which is to question
+every requirement. Rules and regulations can be changed or, in some cases,
+defied. Each rule, as Elon saw it, limits possibilities, hobbling innovation
+and boxing in growth. Although in some cases, Elon’s zeal in this area can
+blind him to the value of certain regulations, it never hurts to question them.
+When you have a large organization, things that started out as good
+ideas can become rules, and then those rules can become requirements. So
+when constrained by rules, we investigate. With a bit of digging, we’d find
+that what appeared at first to be requirements often turned out to be
+recommendations, customs, or conventions. Laws had to be obeyed
+(especially the laws of physics), but not all requirements were laws, and not
+all of them came from governments. Some of them came from suppliers,
+telling us what we could and couldn’t do with a piece of equipment. But
+when we drilled down, those instructions were often just what an engineer
+at that company simply viewed as reasonable, or a best practice. It was not
+a hard-and-fast rule.
+Sometimes, one of our engineers would insist that a new approach was
+dangerous. Of course we took this seriously—but questioned it at the same
+time. Were the engineers right? Did they have data to back up their claim?
+A corporate culture expands its possibilities if it looks at every “no” as a
+potential “yes.” This can lead to all kinds of breakthroughs, both big and
+small.
+Elon trusted that we’d find a way around the Chinese edict concerning
+foreign ownership. It was a rule that gave the Chinese government more
+control. Importantly, it also gave the government rights to the revenue
+derived from its ownership. But Tesla needed all the cash flow from that
+market to survive against much larger and better-funded competitors.
+From Elon’s point of view, there was no reason that Chinese officials
+couldn’t make an exception. My assignment was to find a way for them to
+make a big one.
+Upon landing in Beijing, I met with my colleagues there. Robin Ren, a
+Shanghai native who went to the University of Pennsylvania with Elon,
+headed Tesla’s operations in China. Tom Zhu, an engineer, ran Tesla’s retail
+business in the country. And Grace Tao, formerly a news anchor in the
+country, ran government relations. This was an incredible team. They knew
+the language and the culture, they had critical relationships, and they laid
+out for me the Chinese government’s priorities. The government wanted job
+growth above all. We could promise lots of jobs. We also had to know what
+the Chinese were hungry for. The government’s recently unveiled five-year
+plan seemed custom-made for Tesla. It called for development in our core
+specialties: electric vehicles, batteries, and clean energy. We headed into
+negotiations with a powerful hand.
+I flew over for about a week every month. There were many
+negotiations in offices, as well as over meals and copious drinks into the
+night. The process took fourteen months, but we finally won the go-ahead
+for the first 100 percent foreign-owned auto plant in China. (We retained all
+of the financial ownership, although the Chinese people, as stipulated by the
+1949 Communist Revolution, retained formal ownership of the land the
+plant would be built on.)
+We achieved what no other Western company was able to do—not
+Apple, not GM, not Ford, not Procter and Gamble. The Tesla China entity
+would be able to control its own cash flow, without profit sharing, and help
+to fund the electric vehicle revolution globally.
+Zhu oversaw the building of our mammoth plant, Gigafactory Shanghai.
+The first Model 3s started rolling off its lines in late 2019 (just after I had
+left the company).
+The success in China seemed to prove Elon’s point that even with the
+most firmly established norms, there can be exceptions.
+The laws of physics, he’ll admit, are a lot less flexible. Yet at the same
+time, even seemingly physical constraints can be challenged. The
+semiconductor industry has been nudging against atomic limitations for
+more than half a century. At the same time, it’s all too easy to use physics as
+an excuse. Think of unsuccessful aviators in the nineteenth century. After
+failing to hoist their contraptions into the air, they could shrug their
+shoulders and say, “Well, you can’t fight gravity.”
+But the right machines could fight gravity. Many of the biggest
+breakthroughs come from questioning and probing rules that appear
+ironclad, and quite a few of them are disguised as physical or chemical
+limitations.
+This was on my mind one summer afternoon in California. I was with
+Doug Field, our head of engineering. We were on the walkway, looking
+down on our immense Fremont assembly plant, with its more than 5 million
+square feet. The daunting mandate we faced was to cut half of our
+manufacturing costs. This was urgent, Elon said, for Tesla to win in world
+markets—especially in China, the biggest and most competitive of them all.
+Half of the giant space Doug and I were looking at was occupied by the
+body shop. This is where legions of robots weld some three hundred parts
+into the main supporting structure of the car, the chassis. The robots alone
+represented more than half of our capital costs. And even in a factory
+dominated by robots, labor costs remained stubbornly high. In the struggle
+to keep all the machines in sync, our team of robotics engineers was putting
+in lots of overtime.
+The challenge was to keep scores of robots working in concert. That
+created immense complexity, which led to problems. Tiny delays or a
+simple communication gaffe between two machines could throw off the
+entire process. This created chronic quality issues, like gaps between doors
+and frames.
+The body shop was a drain on productivity further down the assembly
+line. This was an area I’d focused on decades before meeting Elon and
+learning about the Algorithm. Back when Dave Goldberg and I were
+consulting in the Iowa meatpacking business, we worked with a plant
+manager whose mentor at MIT—an Israeli professor named Eli Goldratt—
+was writing a book on precisely the production issues we were struggling
+with. Goldratt was sending the chapters as he wrote them to the plant
+manager in Storm Lake, Iowa. The plant manager gave them to Goldie and
+me.
+Goldratt’s book was called The Goal, and it was transformative. It
+helped us simplify complex problems by zeroing in on constraints. The key,
+Goldratt wrote, was to hunt for bottlenecks in the industrial process. Why?
+Because a process cannot go faster than its slowest step. That is the
+constraint. And it has to be eliminated for the process to speed up.
+The telltale sign of a constraint is a pileup of inventory at one stage or
+another. Each bottleneck requires a fix. Some are simple, others anything
+but. The very process of focusing on what isn’t working well, and fixing it,
+leads to dramatic gains in performance. It trains your attention on what
+matters while also eliminating complexity. The continuous-improvement
+process known as Kaizen, developed in the last century by Toyota, works
+on similar principles.
+One thing about simplicity is that it travels well. Simple, compelling
+concepts, such as “Hunt down constraints and fix them,” work in practically
+any human endeavor.
+After adopting Goldratt’s methodology, the Storm Lake plant quickly
+became the most productive and profitable in the company. By applying its
+lessons to other plants, Goldie and I became known as the manufacturing
+guys at Bain.
+Goldratt’s philosophy fit neatly into Elon’s Algorithm, especially the
+focus on simplicity and bottlenecks. But what to do when half of the entire
+manufacturing process, the body shop, is one enormous bottleneck?
+I asked Doug if there would be any way to eliminate that entire side of
+production, and all the costs and quality issues associated with it.
+He gazed at the operations in the body shop for a while. Then he said,
+“Let me go home and think about this.”
+The next day he came in and rolled a Matchbox car across the table. He
+turned the tiny model over and showed us the bottom. Unlike our cars, its
+body featured a single part. It was cast, with liquid metal injected into a
+mold. The Matchbox car was made from just two casts, top and bottom.
+That’s how Mattel could manufacture the toys for a couple of bucks.
+Everyone knew, of course, that toy cars could be cast. It was just a few
+drops of molten metal. But full-size cars were a different story altogether.
+From the earliest days of manufacturing, automakers had always insisted on
+welding the big and heavy components. Welds, they believed, were stronger
+and could absorb more energy in a crash.
+Casting was used only for small components. To attempt casting larger
+parts seemed foolhardy—and dangerous. Even a splatter of liquid metal can
+kill or severely injure a worker. The tremendous heat generated by large
+casts of molten metal could conceivably crack or even explode the molds. It
+was this very real fear that kept automakers from experimenting with large
+casts. Anyone who dared to challenge the common wisdom ran the risk of a
+deadly inferno.
+Yet a lot had changed since Henry Ford’s day. The sciences had
+advanced tremendously, from metallurgy to robotics. So maybe things that
+used to be impossible, even unthinkable—like casting a chassis—weren’t so
+far-fetched.
+Doug was aware of developments in casting in the steel industry. For a
+full century, the industry had poured tons of molten steel into ingots or,
+later, thick slabs. That metal then was flattened into sheets. It was an
+expensive and time-consuming process.
+In the late 1980s, executives at the fast-growing steel company Nucor,
+of Charlotte, North Carolina, moved to eliminate a big step in the process.
+Their idea was to pour the molten steel into a new type of caster, one that
+would process it directly into sheet steel. This seemed counterintuitive. At
+nearly 3,000 degrees Fahrenheit, molten steel is unruly. It laps and bubbles.
+But the Nucor team, working with a German machine maker, the SMS
+Group, succeeded. Their flat-casting approach gave them a jump on the
+industry. The technology is now standard at companies around the world.
+It was clear to Doug, as he rolled the Matchbox car on the table and
+made his case, that big pieces could be cast. It was really just a matter of
+figuring out how to do it.
+So we experimented. In the back of the factory was a pile of aluminum
+wheel rims that had been rejected for scratches. We asked a couple of
+engineers to melt them in a small smelter. Right away, Doug and his team
+were able to cast pieces that were a lot bigger than the toy car. Our
+experiments continued, producing larger and larger pieces until, finally, we
+cast our first chassis parts.
+The process worked better than we could have dreamed. We began to
+build plants in Shanghai and in Austin with big casters in place of the body
+shop. Our chassis required only three parts, down from three hundred. This
+greatly simplified everything from the supply chain to quality control. Not
+only was it cheaper, but production volume also increased, and quality
+became more consistent.
+As I write this, there’s a global shortage of this casting machinery.
+Whereas Tesla has equipped its factories with new casters, its competitors
+are still waiting to get their hands on one as they scramble to catch up.
+This single innovation gave our team a five- to seven-year jump on the
+rest of the industry. It brought an end to the chronic delays and quality
+issues. We accomplished this by getting rid of the body shop and its robots
+altogether.
+This casting example powerfully illustrates the first step of the
+Algorithm: Question every requirement. Doug questioned the century-old
+norms of requiring a body shop in a car factory. But like so many of the
+case studies in this book, this one demonstrates other steps of the Algorithm
+—such as eliminating steps and simplifying processes—that work together.
+They not only create efficiencies and breakthroughs but also build a culture
+of questioning and experimentation.
+When Doug came up with his radical and potentially dangerous idea, he
+understood that he would not be laughed at or belittled for it—and that if he
+made a good case, he’d have the freedom to develop it. That is essential to
+the culture at Tesla.
+This freedom is also essential for innovation and hypergrowth. It’s
+understood and accepted that a certain percentage of these efforts will come
+up short. After all, only by failing can we be sure that we’re pushing far
+enough into the realm of the possible.
+SOMETIMES, “IMPOSSIBLE” MEANS “UNSOLVED”
+Two years before joining Tesla, I was having trouble sleeping. Like many
+parents, I was worried about my teenager, who was about to get his driver’s
+license. I pictured my sixteen-year-old son behind the wheel, hearing a buzz
+and reaching for his phone. This scenario led to visions, all of them
+horrifying. Distracted driving accounted for more highway deaths than
+alcohol. I was anxious to protect my son, along with everyone in his orbit,
+from friends in the car to children chasing a ball into the street.
+There had to be an app, I figured, to disable a driver’s phone. It was
+something millions of parents wanted, so it seemed to be a no-brainer. But
+when I looked into it, I found that no such app existed. When the Apple
+iPhone was new, I learned, there had been discussions of the very
+technology I wanted.
+Steve Jobs foresaw how much the passengers in a car would be relying
+on their phones for navigation, messaging, and entertainment. He asked if
+there was a way to disable the driver’s messaging without interfering with
+the passengers’ phones. He was told that GPS was accurate to only ten
+meters (thirty feet). That meant it wasn’t possible to pinpoint which phone
+in a car belonged to the driver, so Apple couldn’t solve the problem.
+Passengers were free to enjoy their phones, and it would be up to the drivers
+to exercise healthy restraint. That had parents like me tossing and turning at
+night.
+The accepted conclusion that the problem was unsolvable functioned
+like an ironclad rule or regulation: You can’t do that.
+I hadn’t yet been introduced to the Algorithm, but I understood the value
+of questioning every rule and requirement, every constraint. When there’s a
+consensus that something is impossible, breakthroughs can happen.
+I kept at it. There had to be a way, I figured, to identify the driver’s
+phone and lock down all other functions, save for navigation, while the car
+was moving. I talked to technologists and insurance executives. They gave
+me little reason for hope. They had considered GPS and RFID (radio-
+frequency identification) tags. There were all kinds of ideas, but none
+involved the precision to identify the driver’s phone.
+The problem was vexing. The driver gets into the car and places the
+phone in a cup holder. The passenger does the same. How could a software
+app distinguish between the two? A close friend, David Pratt at Progressive,
+told me that a lab at Stanford had worked on the problem for a while but
+finally gave up, concluding that the solution “does not exist.”
+The apparent impossibility had turned the challenge into a de facto rule:
+It cannot be done. This rule was as clear—and apparently as
+incontrovertible—as the Chinese dictate against 100 percent foreign-owned
+factories or the engineering norm that large chassis components could not
+be cast.
+With the Algorithm, we challenge assumptions, asking why, again and
+again, in search of a solution. It doesn’t always lead to anything. But my
+chances would improve if I enlisted smart people in the hunt.
+Luckily, I had access to lots of brainpower. I was mentoring at Harvard’s
+entrepreneurship center, called the iLab. On a pitch night, I met a team led
+by Brad Cordova, a physics PhD candidate from MIT. I asked Brad if he
+was interested in working on my problem. He agreed, and we joined forces.
+Brad considered those two phones in the cup holders, one belonging to
+the driver, the other to the passenger. What was different about those
+phones? When they were lined up next to each other, very little.
+He wondered if there was anything prior to landing in their places in the
+car that distinguished one phone from the other. Were their pathways at all
+different? This is when he came up with a brilliant observation.
+Using motion sensors in the phones, he mapped their respective courses
+into the car. Here he saw a decisive and distinguishing pattern. Drivers
+getting into the car had to maneuver their bodies behind the steering wheel.
+This gave their movement a distinct signature. We could use it to identify
+the driver and lock down all other functions on their phone, except
+navigation, when the vehicle started moving or when it reached a certain
+speed. We could also gamify driving and reward drivers with cheaper car
+insurance for not texting or browsing while driving.
+This solution was elegant. It did not rely on GPS or a third-party device,
+and it didn’t require data that might infringe on the driver’s privacy.
+We promptly patented the technology and named it TrueMotion. I
+showed it to Dave Pratt, who was leading the effort at Progressive to create
+insurance based on an individual’s behavior. Instead of the traditional
+metrics, such as age and driving records, his team was looking for ways to
+profile drivers based on how they actually drove.
+Dave immediately saw the potential for our technology. Yes, it could
+enable the app to lock down the driver’s phone during a journey, but it
+could also do much more. Once an insurer determines which phone belongs
+to the driver, the phone could provide a stream of behavioral data. The
+insurer could offer discounts to drivers who opted in to this surveillance.
+And doing it through a phone app was a lot easier and cheaper. It also
+scaled much better than installing monitors, one by one, on the cars of
+willing customers. It is a model that Tesla now uses in its own insurance
+business. The company can harvest minute-by-minute data from every one
+of the cars in its global network. This process enables it to gauge risk with
+unprecedented precision.
+One afternoon, Dave got a group of Progressive’s top executives to walk
+out to the parking lot and watch a demonstration of our technology. They
+tried many ways to foil it but failed. They left the parking lot excited about
+all the possibilities. A few weeks later, Progressive became our very first
+customer.
+We soon merged TrueMotion with a more established company,
+Cambridge Telematics. Now the technology is used broadly in the insurance
+industry to score the risk of individual drivers. It makes note of many
+factors, including the number of times per trip that the phone distracts the
+driver.
+This lifesaving innovation was born from questioning a single
+constraint: the inability to identify the driver’s phone with accuracy. The
+Algorithm shows us very clearly that each constraint is an opportunity.
+One thing I love about this example is how Brad Cordova approached
+the problem. He pictured the two phones sitting side by side in the cup
+holders, and instead of drilling down into the use of each phone, he
+considered a different approach. By analyzing their separate pathways into
+the car, he was thinking differently. This is a key to innovation and is
+essential at every step of the Algorithm.
+CORK: A BUSINESS HIDING BEHIND A 25-PAGE PDF
+One telltale sign of an industry in need of optimization is the one-size-fits-
+all phenomenon. If there are forms or procedures that work for everyone, or
+in every scenario, there’s an excellent chance that somewhere along the line
+people have opted for convenience over precision. This can spell
+opportunity.
+I came across a startling case of one-size-fits-all when approving
+expenditures at two very different companies, the retailer Lululemon and
+the car-sharing platform Lyft.
+The issue was cyber-insurance. Approving funding for it is usually a
+routine line item at board meetings. It generates minimal discussion.
+Everyone is aware that cyberattacks can deliver costly, embarrassing, and
+even lethal blows to an enterprise. So the expense, it’s assumed, is the cost
+of doing business in a networked world teeming with bad actors.
+That said, I came out of a board meeting at Lululemon a few years ago
+with sticker shock. The premium for cyber-insurance was $7 million. I
+remember wondering why Lululemon had to pay so much. Like many
+retailers, the company did not store customer banking or credit-card data.
+Upon every purchase, the sensitive data traveled straight to a processing
+platform called Stripe, where it was encrypted. The retailer never even saw
+it. Companies like Stripe certainly needed gold-plated cyber-insurance. But
+Lulu? Not so much.
+My instinct at this stage was to follow step 1 of the Algorithm and to
+question every requirement, especially ones that cost millions of dollars.
+But I was crazy busy and didn’t have time for an exploratory dive into the
+nitty-gritty of cyber-insurance.
+A few weeks later, I flew to San Francisco for a board meeting at Lyft.
+The line item for cyber-insurance came up. I remember thinking that if Lulu
+had to pay $7 million, Lyft would likely have to spend multiples of that.
+Unlike Lulu, Lyft hosted a valuable trove of customer data: bank-account
+numbers, credit cards, passports, IDs. Every minute of every day, hundreds
+of bad actors were probing Lyft’s defenses. If they gained access, they’d
+spoof the customers’ identities and drain their bank accounts. Facing this
+malicious bunch, Lyft needed serious insurance.
+Yet to my shock, Lyft’s bill was exactly the same as Lulu’s, $7 million.
+Was this a one-size-fits-all industry?
+I turned to Brian Roberts, Lyft’s chief financial officer at the time, and
+asked him how this could be. “Lyft’s a honeypot,” I said. “Lulu is not.”
+He explained the primitive workings of cyber-insurance to me.
+Customers had to fill out a form, in this case a twenty-five-page PDF. Much
+like workers-comp insurance, it grouped companies by various metrics,
+from revenue to the size of their workforce. Because Lulu and Lyft fit into
+the same employee-count grouping, they paid the same premium, despite
+their dissimilar risk profiles. Cyber-insurance, Brian told me, “is not a
+sophisticated tech product.”
+Right away, I started to think about disrupting the industry for cyber-
+insurance. It looked like a perfect project for DVx, my start-up incubator.
+Our initial point of reference was TrueMotion. Although we had
+launched it in an effort to discourage distracted driving, our telematics
+provided insurers with a tool for monitoring driving behavior and assessing
+risk. It bested traditional insurance techniques, such as grouping people by
+age, education, and driving records, because it drew data from the very
+source of the risk, the driver’s behavior inside the car.
+What would be the equivalent for cyber-insurance? Where could we find
+and monitor risky behavior? What was the equivalent of being “inside the
+car” for cyber risk?
+Two of my DVx team members, Michael Rossiter and David
+Fetherstonhaugh, spent a couple of months digging into the cyber-insurance
+industry. “We saw that as cyberattacks increased,” Michael recalls, “the
+premiums went up, and the coverage decreased.” Other newcomers,
+including Coalition and Corvus (later acquired by the Travelers
+Companies), were already getting a lot of buzz and landing big venture
+rounds. “We were wondering if we’d missed the boat,” Michael says.
+Yet these companies used noninvasive external scans to assess risk.
+They had no access to their customers’ software stack, which was the
+hackers’ target. In a sense, they were like Victorian doctors who never had
+their patients strip naked.
+Some enterprises, no doubt, had stout defenses in place. Others were
+like digital Swiss cheese. But we wouldn’t be able to assess each company’s
+risk without getting into their stack and exploring.
+We scoured our potential customer base, but could find no one eager to
+let our start-up burrow into their tech-stack crown jewels, both in
+intellectual property and customer data, looking for vulnerabilities. As they
+saw it, opening their digital doors to newcomers made them more
+vulnerable, not less. If they let us in, others could follow.
+We met every two weeks for a full year to grapple with this challenge.
+What we needed was software that probed the vulnerabilities of a corporate
+software stack from the inside. Ideally, it would function like the light-
+sensitive dyes that doctors inject in blood vessels to highlight blockages and
+irregularities.
+Once we pinpointed the vulnerabilities, we could help companies defend
+them. But only if we managed to get inside the stacks. The road, it seemed,
+was blocked. Our foray into cyber-insurance could have ended here. There
+were plenty of other opportunities.
+Yet as we did market research, we spotted a vast and largely unserved
+sector: small and medium-size businesses. Many of these enterprises, from
+law firms to fitness centers, were highly vulnerable. They had valuable
+customer data and all the associated dangers. But the same insurers who
+couldn’t even discriminate between Lululemon and Lyft had little idea how
+to quantify the risk in this sprawling and unruly sector. They assumed it was
+risky, so they turned away from it.
+Consequently, hundreds of thousands of small and medium-size
+businesses were unprotected. Their digital assets, from customer data to
+confidential emails and valuable intellectual property, were largely
+uninsured. If they were cyberattacked or victimized by ransomware, they’d
+have to come up with the money from their own pockets.
+Most of the enterprises in this sector, we learned, outsourced system
+security to companies known as MSPs (managed service providers). These
+companies provided industry-average security, and they had access to each
+customer’s software stack. Perhaps, we thought, we could provide our
+detection service to these companies, piggybacking our program into those
+tools. That way, we’d get to track down vulnerabilities from the inside.
+We’d be in the stack.
+We launched Cork in 2024. Here’s how it works. Our software agent
+inspects every nook and cranny of the stack. After about thirty minutes, it
+reports and pinpoints vulnerabilities, and then it recommends steps to
+remediate them. Once a customer is secured proactively from the inside, the
+risk plummets.
+At first, we thought about selling insurance to these companies. After
+all, once they’d been optimized for security, they were excellent risks. We
+could offer low rates.
+The downside? We would have to craft our business to the norms,
+guidelines, and timetables of the highly regulated insurance industry.
+We came up with another idea. Instead of insurance, we would provide
+the MSPs with $500,000 warranties that they could offer to customers. It
+enhanced their offer. And with our software agent probing for
+vulnerabilities within each stack, the customers had peace of mind. In its
+first twelve months, Cork grew from zero revenue to millions of dollars in
+annual recurring revenue, which matches some of the fastest-growing cyber
+security companies.
+This venture, like many others, came from wondering about an
+exorbitant insurance bill, which led to questioning the reigning one-size-
+fits-all market in that sector. Any requirement that is applicable to everyone
+must be questioned. In the end, it may not be necessary. Or it may turn out
+to be way off target, like the cyber-insurance premium for Lululemon. In
+either case, these crude markets exist only because no one has dug up the
+data to show how inefficient or unfair they are, and how little they know
+about their customers. For those ready to dig deeper, it can be rich pickings.
+GUIDANCE
+Most of us are so busy following policies, rules, and regulations that we barely
+notice them. We naturally focus on changes, either rising dangers or
+opportunities. Emergencies certainly catch our attention. But this first step of the
+Algorithm is chock-full of rules and customs we take for granted. It’s important to
+hunt them down.
+How to do this? In this and the next chapter, the first two steps of the Algorithm,
+the work involves questioning everything—from product requirements to human-
+resources policies to sales methods to the flow on the factory or kitchen floor.
+Everything. Only then can you spot which rules and regulations are necessary,
+and which others are enshrined by tradition. As we’ve seen, that’s the first step of
+the Algorithm. And the same inventory will be necessary for the next step, as we’ll
+see. If you’re going to eliminate problem areas, you first have to see and
+understand them.
+OceanofPDF.com
